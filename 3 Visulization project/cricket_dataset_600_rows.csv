@@ -1,0 +1,601 @@
+Match_ID,Team,Opponent,Venue,Runs_Scored,Wickets_Lost,Overs_Played,Result,Player_of_Match
+1,Australia,Pakistan,Sydney,171,7,20,Loss,Steve Smith
+2,India,England,Delhi,150,9,20,Loss,Joe Root
+3,Pakistan,New Zealand,London,187,3,20,Loss,Virat Kohli
+4,England,India,London,191,4,20,Win,Virat Kohli
+5,Pakistan,England,Melbourne,154,9,20,Loss,Steve Smith
+6,New Zealand,Sri Lanka,London,172,4,20,Win,Virat Kohli
+7,India,New Zealand,Delhi,215,3,20,Win,Kane Williamson
+8,New Zealand,Australia,Lahore,161,3,20,Loss,Ben Stokes
+9,New Zealand,South Africa,Mumbai,143,9,20,Loss,Joe Root
+10,India,South Africa,Mumbai,144,6,20,Win,Virat Kohli
+11,Australia,Bangladesh,Sydney,164,6,20,Loss,Virat Kohli
+12,New Zealand,India,Sydney,184,3,20,Win,Ben Stokes
+13,England,New Zealand,Auckland,185,5,20,Loss,Ben Stokes
+14,India,Bangladesh,Delhi,124,9,20,Loss,Virat Kohli
+15,India,Sri Lanka,Lahore,122,8,20,Loss,Joe Root
+16,New Zealand,England,Melbourne,173,3,20,Loss,Rohit Sharma
+17,England,Australia,Auckland,194,8,20,Win,Kane Williamson
+18,India,South Africa,London,131,4,20,Win,Virat Kohli
+19,New Zealand,India,Cape Town,137,4,20,Loss,Quinton de Kock
+20,Sri Lanka,South Africa,Delhi,135,8,20,Loss,Steve Smith
+21,Sri Lanka,Bangladesh,London,215,5,20,Loss,Babar Azam
+22,South Africa,Australia,Delhi,196,9,20,Win,Virat Kohli
+23,New Zealand,South Africa,Lahore,181,8,20,Loss,Babar Azam
+24,Bangladesh,India,Lahore,191,10,20,Loss,Quinton de Kock
+25,Bangladesh,England,Lahore,192,5,20,Loss,Steve Smith
+26,Australia,Pakistan,Melbourne,203,8,20,Win,Joe Root
+27,Sri Lanka,Pakistan,Sydney,160,10,20,Loss,Ben Stokes
+28,New Zealand,India,London,193,9,20,Win,Quinton de Kock
+29,Australia,Bangladesh,Cape Town,185,5,20,Win,Babar Azam
+30,Bangladesh,Australia,Lahore,212,3,20,Win,Rohit Sharma
+31,Pakistan,New Zealand,Lahore,171,4,20,Loss,Quinton de Kock
+32,Bangladesh,Australia,Melbourne,174,5,20,Win,Joe Root
+33,India,Pakistan,Lahore,162,8,20,Win,Virat Kohli
+34,New Zealand,South Africa,Sydney,186,10,20,Loss,Joe Root
+35,England,Sri Lanka,Auckland,157,6,20,Win,Joe Root
+36,South Africa,India,Mumbai,145,4,20,Win,Rohit Sharma
+37,Bangladesh,England,Lahore,186,7,20,Win,Kane Williamson
+38,Australia,New Zealand,Cape Town,203,6,20,Loss,Rohit Sharma
+39,England,New Zealand,Mumbai,141,9,20,Loss,Ben Stokes
+40,England,Australia,Cape Town,171,3,20,Win,Virat Kohli
+41,England,Australia,Sydney,204,4,20,Loss,Quinton de Kock
+42,Australia,Bangladesh,Lahore,195,10,20,Win,Kane Williamson
+43,England,South Africa,Auckland,144,9,20,Win,Joe Root
+44,Pakistan,England,Lahore,131,4,20,Win,Ben Stokes
+45,Bangladesh,Sri Lanka,Delhi,197,8,20,Loss,Steve Smith
+46,Bangladesh,Australia,Mumbai,131,9,20,Win,Ben Stokes
+47,South Africa,Bangladesh,Melbourne,164,3,20,Loss,Rohit Sharma
+48,Pakistan,England,Cape Town,209,5,20,Win,Babar Azam
+49,England,India,Auckland,135,9,20,Win,Kane Williamson
+50,New Zealand,England,Sydney,151,7,20,Loss,Quinton de Kock
+51,India,Pakistan,Sydney,168,8,20,Win,Virat Kohli
+52,New Zealand,Bangladesh,Delhi,120,9,20,Win,Virat Kohli
+53,India,Sri Lanka,Melbourne,164,9,20,Loss,Rohit Sharma
+54,England,Bangladesh,Mumbai,194,6,20,Win,Rohit Sharma
+55,Sri Lanka,South Africa,Lahore,179,8,20,Loss,Babar Azam
+56,South Africa,Sri Lanka,Auckland,187,5,20,Win,Ben Stokes
+57,Australia,India,Delhi,207,7,20,Win,Steve Smith
+58,Pakistan,Sri Lanka,Cape Town,134,8,20,Loss,Virat Kohli
+59,South Africa,Pakistan,Mumbai,179,8,20,Loss,Babar Azam
+60,England,Bangladesh,Delhi,133,8,20,Loss,Ben Stokes
+61,Pakistan,Bangladesh,Delhi,144,4,20,Win,Babar Azam
+62,Australia,Sri Lanka,London,162,7,20,Win,Joe Root
+63,South Africa,Bangladesh,Delhi,167,3,20,Win,Kane Williamson
+64,Bangladesh,England,Delhi,208,7,20,Loss,Quinton de Kock
+65,Bangladesh,England,Lahore,142,6,20,Loss,Joe Root
+66,Bangladesh,England,Lahore,200,8,20,Win,Babar Azam
+67,South Africa,Australia,Sydney,180,5,20,Win,Steve Smith
+68,England,Australia,Cape Town,160,4,20,Win,Ben Stokes
+69,India,New Zealand,Cape Town,166,3,20,Win,Kane Williamson
+70,Australia,Pakistan,London,139,7,20,Win,Virat Kohli
+71,South Africa,Pakistan,Mumbai,196,8,20,Loss,Virat Kohli
+72,Bangladesh,England,Sydney,211,8,20,Win,Rohit Sharma
+73,India,Australia,Mumbai,168,9,20,Win,Joe Root
+74,Australia,Pakistan,Delhi,216,7,20,Win,Steve Smith
+75,New Zealand,Australia,Auckland,167,8,20,Win,Steve Smith
+76,Australia,Sri Lanka,Mumbai,207,3,20,Win,Kane Williamson
+77,Australia,South Africa,Delhi,185,3,20,Loss,Babar Azam
+78,India,New Zealand,Sydney,210,3,20,Loss,Ben Stokes
+79,New Zealand,Australia,Auckland,202,4,20,Win,Virat Kohli
+80,England,New Zealand,Cape Town,129,6,20,Loss,Joe Root
+81,England,Sri Lanka,Mumbai,128,8,20,Loss,Steve Smith
+82,England,South Africa,Delhi,209,5,20,Loss,Virat Kohli
+83,Sri Lanka,Pakistan,London,147,3,20,Loss,Joe Root
+84,England,Sri Lanka,Sydney,136,6,20,Win,Babar Azam
+85,South Africa,Australia,Mumbai,172,3,20,Loss,Steve Smith
+86,India,Australia,Sydney,193,9,20,Win,Rohit Sharma
+87,Sri Lanka,Pakistan,Auckland,137,3,20,Win,Joe Root
+88,India,Sri Lanka,Lahore,196,3,20,Win,Ben Stokes
+89,Bangladesh,Sri Lanka,Lahore,150,8,20,Win,Kane Williamson
+90,New Zealand,Pakistan,Auckland,156,8,20,Win,Ben Stokes
+91,Pakistan,Bangladesh,Melbourne,157,7,20,Win,Kane Williamson
+92,South Africa,New Zealand,Sydney,145,10,20,Loss,Quinton de Kock
+93,New Zealand,India,Cape Town,178,9,20,Loss,Babar Azam
+94,India,Australia,Delhi,159,5,20,Loss,Steve Smith
+95,Pakistan,South Africa,Lahore,122,5,20,Win,Kane Williamson
+96,Pakistan,Sri Lanka,Sydney,181,6,20,Loss,Joe Root
+97,New Zealand,Australia,Auckland,174,8,20,Loss,Joe Root
+98,Bangladesh,Sri Lanka,Cape Town,151,9,20,Loss,Ben Stokes
+99,South Africa,England,Delhi,125,9,20,Win,Steve Smith
+100,New Zealand,South Africa,Sydney,184,5,20,Win,Ben Stokes
+101,New Zealand,Pakistan,Auckland,182,5,20,Win,Quinton de Kock
+102,India,South Africa,Melbourne,174,10,20,Loss,Kane Williamson
+103,New Zealand,England,Mumbai,127,6,20,Win,Ben Stokes
+104,Sri Lanka,New Zealand,Melbourne,194,5,20,Loss,Quinton de Kock
+105,Pakistan,New Zealand,Melbourne,128,3,20,Loss,Rohit Sharma
+106,India,South Africa,London,183,7,20,Loss,Steve Smith
+107,India,England,Mumbai,164,4,20,Win,Steve Smith
+108,Bangladesh,Pakistan,Auckland,170,4,20,Loss,Rohit Sharma
+109,South Africa,Pakistan,Cape Town,203,10,20,Loss,Joe Root
+110,Pakistan,South Africa,Cape Town,192,10,20,Loss,Ben Stokes
+111,Pakistan,South Africa,Auckland,123,5,20,Loss,Kane Williamson
+112,Australia,South Africa,Melbourne,176,5,20,Win,Steve Smith
+113,New Zealand,Bangladesh,Cape Town,145,6,20,Loss,Quinton de Kock
+114,Sri Lanka,South Africa,London,210,4,20,Loss,Rohit Sharma
+115,Bangladesh,Australia,Mumbai,193,10,20,Loss,Kane Williamson
+116,South Africa,India,Delhi,209,4,20,Loss,Babar Azam
+117,Bangladesh,Australia,Cape Town,129,3,20,Loss,Steve Smith
+118,Bangladesh,England,Cape Town,196,8,20,Loss,Ben Stokes
+119,Sri Lanka,Australia,Melbourne,207,4,20,Loss,Steve Smith
+120,England,Sri Lanka,Delhi,180,5,20,Win,Virat Kohli
+121,England,Australia,Auckland,124,5,20,Win,Steve Smith
+122,England,India,Lahore,202,7,20,Win,Babar Azam
+123,Pakistan,Sri Lanka,Melbourne,125,3,20,Win,Kane Williamson
+124,Sri Lanka,South Africa,London,145,7,20,Win,Joe Root
+125,Sri Lanka,Bangladesh,Lahore,202,10,20,Loss,Steve Smith
+126,Pakistan,Bangladesh,Lahore,217,10,20,Win,Joe Root
+127,New Zealand,Pakistan,Sydney,191,9,20,Loss,Steve Smith
+128,Sri Lanka,Pakistan,Cape Town,137,6,20,Loss,Virat Kohli
+129,South Africa,India,London,136,10,20,Loss,Joe Root
+130,Sri Lanka,Australia,Delhi,177,3,20,Win,Rohit Sharma
+131,South Africa,Bangladesh,Melbourne,194,7,20,Loss,Virat Kohli
+132,New Zealand,Sri Lanka,Delhi,197,4,20,Loss,Virat Kohli
+133,New Zealand,Bangladesh,Delhi,135,3,20,Loss,Rohit Sharma
+134,Australia,Pakistan,Melbourne,185,9,20,Win,Ben Stokes
+135,England,India,Melbourne,165,9,20,Win,Kane Williamson
+136,South Africa,Australia,Lahore,147,5,20,Win,Rohit Sharma
+137,Australia,Pakistan,Melbourne,178,9,20,Win,Kane Williamson
+138,England,India,Auckland,192,6,20,Loss,Ben Stokes
+139,Sri Lanka,Pakistan,Lahore,146,5,20,Loss,Ben Stokes
+140,Pakistan,Bangladesh,Mumbai,211,4,20,Win,Ben Stokes
+141,Pakistan,Bangladesh,Delhi,216,8,20,Win,Rohit Sharma
+142,Pakistan,Sri Lanka,Cape Town,191,9,20,Win,Ben Stokes
+143,Pakistan,Australia,Lahore,122,10,20,Win,Ben Stokes
+144,South Africa,Australia,London,178,8,20,Loss,Babar Azam
+145,Sri Lanka,Bangladesh,Lahore,190,5,20,Loss,Steve Smith
+146,Pakistan,Bangladesh,Auckland,187,4,20,Loss,Quinton de Kock
+147,South Africa,Sri Lanka,Lahore,211,6,20,Win,Babar Azam
+148,Bangladesh,India,Delhi,172,8,20,Loss,Virat Kohli
+149,Pakistan,Bangladesh,Sydney,136,7,20,Win,Rohit Sharma
+150,New Zealand,India,Sydney,123,3,20,Loss,Kane Williamson
+151,Pakistan,England,Cape Town,158,4,20,Win,Kane Williamson
+152,Australia,New Zealand,Sydney,201,3,20,Loss,Virat Kohli
+153,South Africa,New Zealand,Auckland,143,3,20,Win,Virat Kohli
+154,Pakistan,England,Lahore,129,7,20,Win,Babar Azam
+155,England,Bangladesh,Cape Town,202,6,20,Win,Ben Stokes
+156,Australia,Pakistan,Melbourne,134,10,20,Win,Joe Root
+157,Pakistan,England,Sydney,164,3,20,Win,Ben Stokes
+158,South Africa,New Zealand,Melbourne,127,7,20,Loss,Virat Kohli
+159,Pakistan,Australia,London,138,8,20,Loss,Joe Root
+160,England,Bangladesh,Sydney,181,4,20,Win,Quinton de Kock
+161,India,Pakistan,Sydney,154,4,20,Win,Joe Root
+162,South Africa,Bangladesh,London,134,5,20,Win,Kane Williamson
+163,Pakistan,India,Lahore,185,8,20,Loss,Ben Stokes
+164,Sri Lanka,India,Cape Town,220,5,20,Win,Quinton de Kock
+165,England,Australia,Auckland,166,4,20,Win,Kane Williamson
+166,South Africa,Bangladesh,Auckland,219,5,20,Loss,Babar Azam
+167,Pakistan,India,Cape Town,125,10,20,Win,Quinton de Kock
+168,Pakistan,South Africa,London,194,6,20,Loss,Ben Stokes
+169,India,Sri Lanka,London,144,9,20,Win,Ben Stokes
+170,Pakistan,Australia,London,152,10,20,Win,Quinton de Kock
+171,Bangladesh,England,Delhi,123,10,20,Win,Rohit Sharma
+172,Bangladesh,England,Mumbai,169,3,20,Loss,Joe Root
+173,India,Australia,Sydney,155,5,20,Loss,Joe Root
+174,South Africa,England,London,129,9,20,Win,Quinton de Kock
+175,New Zealand,India,Mumbai,134,3,20,Win,Babar Azam
+176,South Africa,New Zealand,Sydney,203,9,20,Loss,Virat Kohli
+177,Bangladesh,England,Melbourne,217,8,20,Loss,Babar Azam
+178,India,Sri Lanka,Mumbai,185,5,20,Loss,Ben Stokes
+179,Bangladesh,India,London,185,4,20,Win,Quinton de Kock
+180,Pakistan,New Zealand,Lahore,163,8,20,Win,Joe Root
+181,Sri Lanka,South Africa,Delhi,198,6,20,Loss,Rohit Sharma
+182,Sri Lanka,Bangladesh,London,134,10,20,Win,Ben Stokes
+183,England,Bangladesh,Delhi,138,8,20,Win,Kane Williamson
+184,New Zealand,England,Sydney,131,6,20,Win,Joe Root
+185,Pakistan,England,Auckland,199,9,20,Loss,Babar Azam
+186,India,South Africa,Delhi,216,6,20,Win,Ben Stokes
+187,Sri Lanka,South Africa,Mumbai,205,5,20,Loss,Kane Williamson
+188,Bangladesh,Pakistan,Auckland,204,4,20,Loss,Kane Williamson
+189,Australia,South Africa,Lahore,175,10,20,Win,Babar Azam
+190,South Africa,Pakistan,Sydney,195,4,20,Win,Joe Root
+191,Sri Lanka,Australia,Sydney,125,4,20,Loss,Quinton de Kock
+192,New Zealand,Australia,Lahore,171,10,20,Loss,Quinton de Kock
+193,Australia,South Africa,Delhi,212,5,20,Loss,Kane Williamson
+194,India,Sri Lanka,Lahore,204,7,20,Loss,Steve Smith
+195,South Africa,Pakistan,Cape Town,170,5,20,Loss,Steve Smith
+196,India,South Africa,Melbourne,120,5,20,Loss,Quinton de Kock
+197,Sri Lanka,England,Cape Town,126,5,20,Loss,Steve Smith
+198,Bangladesh,New Zealand,Melbourne,186,8,20,Win,Steve Smith
+199,New Zealand,India,Lahore,151,3,20,Win,Kane Williamson
+200,Sri Lanka,Australia,Mumbai,172,8,20,Win,Rohit Sharma
+201,England,Pakistan,Delhi,139,8,20,Win,Rohit Sharma
+202,Australia,India,Lahore,157,5,20,Loss,Joe Root
+203,India,New Zealand,Lahore,148,6,20,Win,Ben Stokes
+204,India,Pakistan,Cape Town,180,8,20,Loss,Steve Smith
+205,England,Sri Lanka,Mumbai,214,9,20,Win,Ben Stokes
+206,New Zealand,South Africa,London,145,8,20,Loss,Babar Azam
+207,South Africa,England,London,201,7,20,Win,Ben Stokes
+208,England,South Africa,Cape Town,178,5,20,Loss,Ben Stokes
+209,New Zealand,Sri Lanka,Lahore,130,10,20,Loss,Rohit Sharma
+210,England,Australia,Cape Town,183,3,20,Win,Joe Root
+211,Sri Lanka,India,Cape Town,216,4,20,Win,Joe Root
+212,Pakistan,India,Cape Town,195,5,20,Win,Quinton de Kock
+213,Sri Lanka,Australia,Melbourne,206,10,20,Win,Ben Stokes
+214,Bangladesh,South Africa,Sydney,149,3,20,Loss,Kane Williamson
+215,South Africa,England,Delhi,120,5,20,Win,Quinton de Kock
+216,Bangladesh,Australia,Auckland,207,10,20,Win,Babar Azam
+217,New Zealand,Bangladesh,Cape Town,155,5,20,Loss,Steve Smith
+218,England,Pakistan,Melbourne,193,5,20,Win,Kane Williamson
+219,South Africa,Sri Lanka,Lahore,194,4,20,Win,Babar Azam
+220,Pakistan,India,Sydney,141,8,20,Loss,Rohit Sharma
+221,India,Sri Lanka,Auckland,148,10,20,Win,Steve Smith
+222,Australia,Bangladesh,Sydney,214,6,20,Loss,Virat Kohli
+223,South Africa,Pakistan,Mumbai,157,3,20,Loss,Ben Stokes
+224,South Africa,India,Cape Town,148,5,20,Loss,Virat Kohli
+225,Sri Lanka,Bangladesh,Sydney,147,10,20,Win,Kane Williamson
+226,Sri Lanka,England,Lahore,147,6,20,Loss,Rohit Sharma
+227,Pakistan,Bangladesh,Mumbai,142,8,20,Win,Ben Stokes
+228,Sri Lanka,New Zealand,Cape Town,215,8,20,Loss,Joe Root
+229,Australia,New Zealand,Delhi,151,9,20,Win,Steve Smith
+230,Bangladesh,New Zealand,Lahore,188,8,20,Win,Joe Root
+231,New Zealand,England,Delhi,166,5,20,Win,Rohit Sharma
+232,Pakistan,New Zealand,London,214,9,20,Loss,Rohit Sharma
+233,South Africa,New Zealand,Mumbai,162,7,20,Win,Quinton de Kock
+234,India,Australia,London,197,7,20,Win,Joe Root
+235,Bangladesh,England,Lahore,139,5,20,Loss,Steve Smith
+236,Bangladesh,Pakistan,Cape Town,134,6,20,Loss,Joe Root
+237,New Zealand,Australia,Sydney,181,4,20,Loss,Ben Stokes
+238,India,New Zealand,Mumbai,168,9,20,Loss,Steve Smith
+239,England,South Africa,Sydney,132,9,20,Loss,Rohit Sharma
+240,Bangladesh,Australia,Delhi,205,7,20,Win,Rohit Sharma
+241,England,Pakistan,London,177,4,20,Loss,Babar Azam
+242,Pakistan,Australia,Auckland,178,10,20,Loss,Joe Root
+243,New Zealand,Australia,London,152,3,20,Loss,Virat Kohli
+244,Sri Lanka,Bangladesh,Delhi,123,6,20,Win,Kane Williamson
+245,India,New Zealand,Sydney,184,8,20,Win,Virat Kohli
+246,South Africa,Sri Lanka,London,156,3,20,Win,Virat Kohli
+247,Bangladesh,Sri Lanka,Melbourne,132,7,20,Loss,Quinton de Kock
+248,India,Pakistan,Sydney,203,6,20,Win,Rohit Sharma
+249,Sri Lanka,New Zealand,Cape Town,128,8,20,Loss,Steve Smith
+250,South Africa,Pakistan,Auckland,149,5,20,Win,Virat Kohli
+251,Bangladesh,South Africa,Lahore,135,6,20,Win,Rohit Sharma
+252,India,Bangladesh,Lahore,135,6,20,Loss,Babar Azam
+253,Pakistan,Bangladesh,Cape Town,170,3,20,Loss,Joe Root
+254,South Africa,India,Mumbai,153,8,20,Loss,Joe Root
+255,New Zealand,India,Auckland,164,5,20,Win,Joe Root
+256,Pakistan,Australia,Lahore,164,8,20,Win,Virat Kohli
+257,Sri Lanka,India,London,141,7,20,Win,Ben Stokes
+258,Pakistan,Sri Lanka,Delhi,156,10,20,Loss,Ben Stokes
+259,Pakistan,South Africa,Cape Town,144,9,20,Loss,Quinton de Kock
+260,New Zealand,Pakistan,Melbourne,211,5,20,Win,Virat Kohli
+261,Sri Lanka,England,Mumbai,132,6,20,Win,Rohit Sharma
+262,Pakistan,Sri Lanka,Mumbai,160,9,20,Loss,Joe Root
+263,South Africa,England,Sydney,182,5,20,Loss,Ben Stokes
+264,New Zealand,Australia,Delhi,161,5,20,Win,Steve Smith
+265,India,South Africa,Cape Town,171,8,20,Win,Quinton de Kock
+266,South Africa,Bangladesh,Auckland,128,10,20,Loss,Virat Kohli
+267,England,India,Cape Town,163,5,20,Win,Quinton de Kock
+268,Bangladesh,New Zealand,Melbourne,145,8,20,Loss,Rohit Sharma
+269,Pakistan,South Africa,Cape Town,126,7,20,Loss,Joe Root
+270,Australia,England,London,206,7,20,Win,Steve Smith
+271,Bangladesh,India,Melbourne,206,3,20,Loss,Rohit Sharma
+272,Bangladesh,Australia,Lahore,130,8,20,Win,Babar Azam
+273,England,India,Delhi,134,4,20,Loss,Quinton de Kock
+274,Sri Lanka,England,Sydney,125,9,20,Loss,Steve Smith
+275,India,South Africa,Lahore,145,7,20,Win,Joe Root
+276,Pakistan,New Zealand,London,164,5,20,Win,Kane Williamson
+277,Pakistan,South Africa,Mumbai,149,5,20,Win,Steve Smith
+278,Pakistan,New Zealand,Auckland,203,5,20,Win,Rohit Sharma
+279,Sri Lanka,Pakistan,Auckland,186,9,20,Win,Babar Azam
+280,Pakistan,Bangladesh,Cape Town,184,6,20,Loss,Quinton de Kock
+281,Australia,India,Sydney,124,7,20,Loss,Babar Azam
+282,India,Australia,Mumbai,142,10,20,Loss,Joe Root
+283,New Zealand,Sri Lanka,Delhi,151,10,20,Win,Quinton de Kock
+284,South Africa,Australia,Delhi,211,3,20,Win,Babar Azam
+285,Bangladesh,India,Sydney,120,7,20,Win,Steve Smith
+286,New Zealand,South Africa,London,162,4,20,Win,Babar Azam
+287,South Africa,Australia,Delhi,204,6,20,Loss,Joe Root
+288,Australia,Bangladesh,Sydney,211,5,20,Loss,Quinton de Kock
+289,Bangladesh,India,Auckland,168,9,20,Win,Virat Kohli
+290,South Africa,Australia,Auckland,149,3,20,Loss,Joe Root
+291,New Zealand,Sri Lanka,London,186,8,20,Loss,Ben Stokes
+292,Australia,England,Auckland,189,6,20,Win,Quinton de Kock
+293,South Africa,India,Sydney,126,9,20,Win,Rohit Sharma
+294,Pakistan,India,Sydney,211,7,20,Win,Virat Kohli
+295,Australia,South Africa,Auckland,154,7,20,Win,Babar Azam
+296,India,South Africa,Cape Town,164,5,20,Loss,Babar Azam
+297,New Zealand,England,London,178,7,20,Win,Joe Root
+298,Sri Lanka,South Africa,Mumbai,133,4,20,Loss,Steve Smith
+299,England,New Zealand,London,158,5,20,Loss,Virat Kohli
+300,England,Sri Lanka,Melbourne,187,7,20,Loss,Ben Stokes
+301,Pakistan,India,Auckland,123,4,20,Loss,Joe Root
+302,England,Australia,Auckland,185,4,20,Win,Rohit Sharma
+303,South Africa,Australia,Melbourne,140,8,20,Win,Joe Root
+304,Pakistan,Bangladesh,Melbourne,139,5,20,Win,Kane Williamson
+305,New Zealand,South Africa,Lahore,173,9,20,Win,Kane Williamson
+306,Bangladesh,India,London,120,5,20,Loss,Rohit Sharma
+307,Pakistan,India,Delhi,171,6,20,Win,Ben Stokes
+308,Pakistan,New Zealand,Lahore,210,7,20,Loss,Kane Williamson
+309,India,South Africa,London,169,9,20,Loss,Babar Azam
+310,Pakistan,New Zealand,Sydney,149,6,20,Loss,Quinton de Kock
+311,Bangladesh,England,Lahore,129,5,20,Win,Steve Smith
+312,Sri Lanka,Australia,London,211,7,20,Loss,Rohit Sharma
+313,Bangladesh,Pakistan,Auckland,168,7,20,Win,Babar Azam
+314,England,Sri Lanka,Cape Town,209,5,20,Win,Babar Azam
+315,New Zealand,Pakistan,Cape Town,137,4,20,Loss,Ben Stokes
+316,England,Sri Lanka,Sydney,144,3,20,Loss,Babar Azam
+317,Pakistan,England,Melbourne,185,10,20,Loss,Ben Stokes
+318,Sri Lanka,New Zealand,Lahore,153,7,20,Loss,Steve Smith
+319,Australia,India,Lahore,217,5,20,Win,Rohit Sharma
+320,Pakistan,Sri Lanka,Lahore,208,8,20,Win,Rohit Sharma
+321,Pakistan,South Africa,Sydney,216,3,20,Win,Steve Smith
+322,South Africa,England,Mumbai,213,4,20,Loss,Rohit Sharma
+323,New Zealand,Sri Lanka,Delhi,175,8,20,Loss,Joe Root
+324,Bangladesh,Australia,Cape Town,187,3,20,Loss,Ben Stokes
+325,New Zealand,Bangladesh,Sydney,136,7,20,Win,Kane Williamson
+326,South Africa,Sri Lanka,Sydney,205,4,20,Loss,Kane Williamson
+327,Pakistan,New Zealand,Melbourne,154,6,20,Loss,Ben Stokes
+328,South Africa,New Zealand,Melbourne,135,7,20,Loss,Steve Smith
+329,Pakistan,England,Auckland,220,10,20,Loss,Babar Azam
+330,England,Australia,Sydney,181,5,20,Win,Joe Root
+331,Bangladesh,Sri Lanka,Auckland,125,8,20,Win,Steve Smith
+332,Pakistan,South Africa,Auckland,166,8,20,Win,Kane Williamson
+333,New Zealand,Bangladesh,London,159,6,20,Win,Steve Smith
+334,India,Pakistan,Sydney,186,9,20,Win,Steve Smith
+335,India,England,Auckland,178,9,20,Win,Babar Azam
+336,South Africa,New Zealand,Mumbai,195,9,20,Win,Kane Williamson
+337,South Africa,England,Melbourne,203,7,20,Win,Rohit Sharma
+338,Bangladesh,South Africa,Cape Town,219,5,20,Loss,Virat Kohli
+339,Australia,South Africa,Sydney,211,10,20,Loss,Ben Stokes
+340,South Africa,England,Auckland,219,4,20,Win,Babar Azam
+341,South Africa,Australia,Delhi,202,7,20,Win,Babar Azam
+342,Australia,England,London,196,4,20,Loss,Steve Smith
+343,South Africa,Sri Lanka,Sydney,126,9,20,Win,Steve Smith
+344,Sri Lanka,England,Delhi,162,7,20,Loss,Quinton de Kock
+345,Bangladesh,New Zealand,Lahore,167,8,20,Win,Quinton de Kock
+346,England,Australia,Sydney,156,6,20,Win,Quinton de Kock
+347,New Zealand,England,Mumbai,173,9,20,Loss,Steve Smith
+348,South Africa,England,Lahore,186,9,20,Loss,Steve Smith
+349,Bangladesh,England,Melbourne,213,3,20,Win,Quinton de Kock
+350,England,Pakistan,Melbourne,152,5,20,Win,Ben Stokes
+351,England,Australia,Mumbai,144,3,20,Win,Steve Smith
+352,New Zealand,India,Melbourne,163,9,20,Loss,Quinton de Kock
+353,India,Bangladesh,London,194,10,20,Win,Rohit Sharma
+354,India,Sri Lanka,Melbourne,186,5,20,Win,Babar Azam
+355,Sri Lanka,Australia,Melbourne,144,10,20,Loss,Steve Smith
+356,Bangladesh,Australia,London,177,10,20,Loss,Rohit Sharma
+357,New Zealand,Pakistan,Cape Town,168,4,20,Win,Ben Stokes
+358,England,South Africa,Mumbai,169,9,20,Loss,Rohit Sharma
+359,New Zealand,India,Lahore,150,10,20,Loss,Quinton de Kock
+360,South Africa,New Zealand,London,149,8,20,Loss,Rohit Sharma
+361,New Zealand,Bangladesh,Cape Town,206,4,20,Loss,Ben Stokes
+362,Sri Lanka,South Africa,London,188,8,20,Loss,Babar Azam
+363,Sri Lanka,New Zealand,Melbourne,124,4,20,Loss,Virat Kohli
+364,Australia,South Africa,Cape Town,143,5,20,Win,Joe Root
+365,Sri Lanka,New Zealand,London,146,6,20,Win,Virat Kohli
+366,South Africa,Australia,Sydney,171,7,20,Loss,Rohit Sharma
+367,Sri Lanka,Australia,Cape Town,208,7,20,Win,Steve Smith
+368,South Africa,New Zealand,Lahore,192,8,20,Loss,Ben Stokes
+369,Bangladesh,Sri Lanka,Mumbai,208,3,20,Loss,Joe Root
+370,Australia,India,Lahore,169,7,20,Win,Steve Smith
+371,England,South Africa,Cape Town,185,9,20,Win,Kane Williamson
+372,New Zealand,Pakistan,Auckland,182,5,20,Win,Rohit Sharma
+373,Sri Lanka,New Zealand,Delhi,137,10,20,Loss,Ben Stokes
+374,Australia,Bangladesh,Sydney,218,4,20,Win,Babar Azam
+375,England,India,Melbourne,219,8,20,Loss,Babar Azam
+376,India,Australia,Cape Town,216,3,20,Loss,Steve Smith
+377,South Africa,Sri Lanka,Melbourne,140,7,20,Loss,Joe Root
+378,Sri Lanka,Australia,Melbourne,174,6,20,Loss,Babar Azam
+379,England,Sri Lanka,Auckland,194,9,20,Loss,Joe Root
+380,Pakistan,Sri Lanka,Delhi,215,10,20,Win,Virat Kohli
+381,New Zealand,Australia,Melbourne,170,7,20,Win,Kane Williamson
+382,England,New Zealand,Auckland,130,4,20,Loss,Ben Stokes
+383,Sri Lanka,India,Lahore,213,4,20,Win,Rohit Sharma
+384,New Zealand,Australia,Cape Town,173,3,20,Win,Virat Kohli
+385,India,Bangladesh,Sydney,164,3,20,Loss,Virat Kohli
+386,India,Pakistan,Sydney,164,6,20,Win,Virat Kohli
+387,Sri Lanka,New Zealand,Cape Town,138,7,20,Loss,Joe Root
+388,Sri Lanka,India,Delhi,164,8,20,Loss,Virat Kohli
+389,Sri Lanka,Bangladesh,Mumbai,170,10,20,Win,Ben Stokes
+390,Pakistan,Bangladesh,Delhi,138,4,20,Loss,Rohit Sharma
+391,Pakistan,Bangladesh,London,130,8,20,Win,Babar Azam
+392,India,Pakistan,Melbourne,205,8,20,Loss,Joe Root
+393,Sri Lanka,Pakistan,London,140,6,20,Win,Kane Williamson
+394,Australia,England,Sydney,122,9,20,Win,Rohit Sharma
+395,India,England,Cape Town,130,4,20,Win,Quinton de Kock
+396,New Zealand,Sri Lanka,Auckland,140,10,20,Win,Joe Root
+397,Pakistan,England,Auckland,219,9,20,Loss,Steve Smith
+398,Australia,Pakistan,Auckland,122,6,20,Loss,Kane Williamson
+399,New Zealand,South Africa,Auckland,201,8,20,Loss,Virat Kohli
+400,Australia,Bangladesh,Sydney,191,5,20,Win,Kane Williamson
+401,England,Sri Lanka,Melbourne,214,4,20,Loss,Joe Root
+402,New Zealand,England,Auckland,179,10,20,Win,Kane Williamson
+403,Sri Lanka,Australia,Sydney,203,7,20,Loss,Babar Azam
+404,England,New Zealand,Mumbai,191,8,20,Win,Quinton de Kock
+405,South Africa,Australia,Lahore,215,6,20,Win,Steve Smith
+406,Pakistan,Australia,Delhi,146,8,20,Win,Ben Stokes
+407,South Africa,India,Sydney,217,9,20,Loss,Steve Smith
+408,England,Sri Lanka,Melbourne,189,8,20,Win,Babar Azam
+409,Sri Lanka,Bangladesh,Auckland,166,9,20,Loss,Steve Smith
+410,Australia,England,London,200,9,20,Win,Babar Azam
+411,Sri Lanka,New Zealand,Melbourne,215,6,20,Loss,Quinton de Kock
+412,South Africa,Sri Lanka,London,165,3,20,Loss,Ben Stokes
+413,South Africa,Sri Lanka,London,152,6,20,Win,Rohit Sharma
+414,Australia,Sri Lanka,Delhi,210,6,20,Win,Babar Azam
+415,Pakistan,New Zealand,London,182,3,20,Win,Rohit Sharma
+416,Sri Lanka,England,Lahore,216,10,20,Win,Kane Williamson
+417,South Africa,Australia,Mumbai,189,6,20,Win,Ben Stokes
+418,Sri Lanka,South Africa,Delhi,202,8,20,Loss,Ben Stokes
+419,South Africa,India,London,175,5,20,Win,Steve Smith
+420,England,Bangladesh,London,192,8,20,Win,Babar Azam
+421,South Africa,Australia,London,144,7,20,Win,Virat Kohli
+422,India,Pakistan,Auckland,133,3,20,Loss,Ben Stokes
+423,South Africa,New Zealand,Mumbai,160,10,20,Loss,Steve Smith
+424,Pakistan,Sri Lanka,Delhi,129,8,20,Loss,Kane Williamson
+425,Sri Lanka,New Zealand,Auckland,137,10,20,Loss,Steve Smith
+426,Pakistan,India,Lahore,180,3,20,Win,Quinton de Kock
+427,New Zealand,South Africa,Lahore,182,5,20,Win,Rohit Sharma
+428,Pakistan,Sri Lanka,London,148,6,20,Win,Rohit Sharma
+429,Bangladesh,Pakistan,Mumbai,182,10,20,Loss,Quinton de Kock
+430,Sri Lanka,Australia,Mumbai,204,7,20,Loss,Steve Smith
+431,Australia,South Africa,Auckland,196,7,20,Win,Virat Kohli
+432,Sri Lanka,Australia,Cape Town,183,9,20,Win,Kane Williamson
+433,Australia,Sri Lanka,Melbourne,198,5,20,Loss,Rohit Sharma
+434,Sri Lanka,Pakistan,Lahore,208,5,20,Loss,Quinton de Kock
+435,Bangladesh,India,Lahore,162,3,20,Loss,Kane Williamson
+436,Bangladesh,New Zealand,Cape Town,138,4,20,Win,Rohit Sharma
+437,New Zealand,South Africa,Auckland,132,5,20,Loss,Kane Williamson
+438,Sri Lanka,Australia,Sydney,172,10,20,Win,Quinton de Kock
+439,Sri Lanka,Australia,Delhi,175,9,20,Win,Kane Williamson
+440,Australia,India,Lahore,194,7,20,Win,Rohit Sharma
+441,Pakistan,Bangladesh,Melbourne,187,5,20,Win,Babar Azam
+442,South Africa,England,Sydney,147,5,20,Loss,Rohit Sharma
+443,India,Australia,Auckland,207,6,20,Win,Babar Azam
+444,Bangladesh,New Zealand,Mumbai,186,5,20,Win,Rohit Sharma
+445,England,India,Sydney,165,10,20,Win,Babar Azam
+446,England,Bangladesh,London,199,10,20,Loss,Babar Azam
+447,Sri Lanka,South Africa,Mumbai,208,8,20,Win,Steve Smith
+448,Australia,England,Sydney,124,5,20,Win,Steve Smith
+449,Sri Lanka,New Zealand,Auckland,217,6,20,Loss,Ben Stokes
+450,India,England,London,196,6,20,Win,Joe Root
+451,England,India,Delhi,178,3,20,Loss,Quinton de Kock
+452,Pakistan,Sri Lanka,Delhi,189,3,20,Win,Quinton de Kock
+453,New Zealand,Sri Lanka,Melbourne,197,8,20,Loss,Kane Williamson
+454,South Africa,India,Mumbai,150,4,20,Loss,Quinton de Kock
+455,Pakistan,Australia,Mumbai,143,4,20,Win,Quinton de Kock
+456,Pakistan,England,London,172,8,20,Loss,Babar Azam
+457,Pakistan,Australia,Sydney,170,7,20,Win,Kane Williamson
+458,Pakistan,Sri Lanka,Delhi,194,7,20,Win,Babar Azam
+459,Pakistan,England,London,220,5,20,Loss,Rohit Sharma
+460,Pakistan,South Africa,London,220,3,20,Win,Steve Smith
+461,Pakistan,Sri Lanka,Sydney,179,3,20,Loss,Kane Williamson
+462,New Zealand,England,Delhi,169,5,20,Win,Rohit Sharma
+463,Australia,South Africa,Mumbai,139,4,20,Win,Kane Williamson
+464,Pakistan,India,Sydney,202,5,20,Win,Joe Root
+465,New Zealand,India,Melbourne,153,6,20,Loss,Babar Azam
+466,Sri Lanka,England,Cape Town,130,3,20,Loss,Steve Smith
+467,Pakistan,England,Melbourne,160,3,20,Loss,Ben Stokes
+468,South Africa,New Zealand,Mumbai,125,7,20,Loss,Kane Williamson
+469,South Africa,Australia,London,187,6,20,Win,Virat Kohli
+470,England,Bangladesh,Sydney,211,6,20,Loss,Ben Stokes
+471,Australia,England,Lahore,179,8,20,Win,Babar Azam
+472,South Africa,Pakistan,Sydney,209,6,20,Loss,Quinton de Kock
+473,Pakistan,Australia,London,124,9,20,Win,Ben Stokes
+474,Pakistan,England,Lahore,190,5,20,Loss,Virat Kohli
+475,Pakistan,New Zealand,Auckland,156,10,20,Win,Joe Root
+476,Sri Lanka,Pakistan,Auckland,193,10,20,Win,Virat Kohli
+477,Australia,South Africa,London,217,8,20,Loss,Babar Azam
+478,England,Pakistan,Melbourne,127,4,20,Loss,Rohit Sharma
+479,New Zealand,India,Auckland,134,4,20,Loss,Babar Azam
+480,Pakistan,South Africa,Melbourne,152,6,20,Loss,Ben Stokes
+481,Australia,New Zealand,Sydney,181,8,20,Loss,Steve Smith
+482,Sri Lanka,India,Cape Town,154,10,20,Loss,Quinton de Kock
+483,England,South Africa,Cape Town,121,9,20,Win,Quinton de Kock
+484,India,Bangladesh,Cape Town,135,3,20,Win,Ben Stokes
+485,New Zealand,South Africa,Delhi,185,7,20,Win,Babar Azam
+486,South Africa,England,Sydney,136,7,20,Win,Virat Kohli
+487,Australia,England,Melbourne,203,5,20,Loss,Quinton de Kock
+488,South Africa,India,London,142,6,20,Loss,Steve Smith
+489,Pakistan,South Africa,Delhi,190,8,20,Win,Joe Root
+490,Sri Lanka,England,Lahore,174,10,20,Win,Quinton de Kock
+491,South Africa,England,Auckland,164,5,20,Win,Rohit Sharma
+492,Bangladesh,England,Lahore,210,8,20,Win,Virat Kohli
+493,South Africa,Bangladesh,Sydney,152,6,20,Loss,Quinton de Kock
+494,Sri Lanka,England,Auckland,124,9,20,Win,Rohit Sharma
+495,Sri Lanka,Australia,Lahore,220,9,20,Loss,Joe Root
+496,Pakistan,India,Cape Town,174,5,20,Loss,Babar Azam
+497,New Zealand,India,Melbourne,181,9,20,Loss,Kane Williamson
+498,England,Australia,Auckland,200,6,20,Loss,Steve Smith
+499,South Africa,Sri Lanka,Delhi,152,6,20,Loss,Rohit Sharma
+500,Pakistan,India,Cape Town,220,10,20,Win,Rohit Sharma
+501,England,Sri Lanka,Cape Town,161,9,20,Win,Quinton de Kock
+502,New Zealand,England,Sydney,138,8,20,Loss,Rohit Sharma
+503,England,South Africa,Lahore,120,8,20,Win,Ben Stokes
+504,South Africa,New Zealand,Auckland,172,4,20,Win,Rohit Sharma
+505,India,Australia,Mumbai,164,4,20,Loss,Rohit Sharma
+506,South Africa,Sri Lanka,Cape Town,129,4,20,Win,Steve Smith
+507,Australia,England,Delhi,156,8,20,Loss,Babar Azam
+508,New Zealand,Pakistan,Delhi,151,10,20,Loss,Quinton de Kock
+509,New Zealand,England,London,159,10,20,Win,Kane Williamson
+510,Pakistan,India,London,127,6,20,Loss,Joe Root
+511,Australia,Sri Lanka,Lahore,191,9,20,Win,Kane Williamson
+512,Pakistan,India,Melbourne,205,7,20,Loss,Quinton de Kock
+513,South Africa,Sri Lanka,Lahore,213,4,20,Win,Kane Williamson
+514,England,New Zealand,Melbourne,137,9,20,Win,Joe Root
+515,Australia,Sri Lanka,Melbourne,134,10,20,Win,Virat Kohli
+516,Australia,England,Delhi,151,6,20,Win,Ben Stokes
+517,Sri Lanka,England,Sydney,184,10,20,Win,Babar Azam
+518,Sri Lanka,India,Auckland,167,4,20,Loss,Virat Kohli
+519,Bangladesh,England,Cape Town,186,9,20,Loss,Babar Azam
+520,India,Sri Lanka,Lahore,153,7,20,Loss,Joe Root
+521,New Zealand,South Africa,Sydney,149,3,20,Loss,Steve Smith
+522,New Zealand,England,Sydney,147,5,20,Loss,Ben Stokes
+523,South Africa,Australia,London,188,7,20,Loss,Babar Azam
+524,South Africa,Sri Lanka,Sydney,122,5,20,Win,Joe Root
+525,South Africa,New Zealand,Cape Town,184,10,20,Loss,Rohit Sharma
+526,Australia,Sri Lanka,London,147,9,20,Win,Quinton de Kock
+527,Sri Lanka,Bangladesh,Cape Town,178,7,20,Win,Rohit Sharma
+528,South Africa,Pakistan,Melbourne,219,7,20,Loss,Quinton de Kock
+529,England,New Zealand,London,198,8,20,Win,Ben Stokes
+530,England,India,Cape Town,213,5,20,Loss,Babar Azam
+531,Pakistan,Sri Lanka,Delhi,138,10,20,Loss,Joe Root
+532,New Zealand,Sri Lanka,Delhi,154,4,20,Loss,Babar Azam
+533,Australia,South Africa,Cape Town,186,9,20,Win,Ben Stokes
+534,England,India,London,162,3,20,Loss,Steve Smith
+535,Sri Lanka,Australia,Delhi,145,3,20,Win,Ben Stokes
+536,South Africa,Sri Lanka,Sydney,144,4,20,Win,Rohit Sharma
+537,New Zealand,Pakistan,Lahore,150,10,20,Win,Kane Williamson
+538,Pakistan,England,London,147,8,20,Win,Virat Kohli
+539,Bangladesh,New Zealand,Mumbai,177,9,20,Loss,Joe Root
+540,Sri Lanka,England,Melbourne,146,4,20,Loss,Kane Williamson
+541,India,Australia,London,124,10,20,Win,Kane Williamson
+542,Bangladesh,England,Mumbai,211,10,20,Win,Joe Root
+543,New Zealand,England,Melbourne,165,9,20,Loss,Ben Stokes
+544,Australia,Sri Lanka,London,220,7,20,Win,Joe Root
+545,South Africa,England,Melbourne,161,8,20,Win,Virat Kohli
+546,Bangladesh,Australia,Lahore,144,7,20,Loss,Joe Root
+547,Australia,India,Cape Town,125,7,20,Loss,Joe Root
+548,South Africa,New Zealand,Delhi,191,4,20,Loss,Babar Azam
+549,Pakistan,England,Delhi,130,9,20,Loss,Steve Smith
+550,Pakistan,New Zealand,Cape Town,132,3,20,Win,Ben Stokes
+551,Pakistan,Australia,Delhi,125,4,20,Win,Ben Stokes
+552,Bangladesh,New Zealand,Cape Town,174,4,20,Loss,Babar Azam
+553,Australia,England,London,151,7,20,Loss,Babar Azam
+554,Pakistan,Sri Lanka,Delhi,166,10,20,Loss,Rohit Sharma
+555,Pakistan,Bangladesh,Sydney,134,9,20,Win,Kane Williamson
+556,South Africa,England,London,126,6,20,Loss,Rohit Sharma
+557,South Africa,India,Mumbai,160,6,20,Win,Ben Stokes
+558,Pakistan,New Zealand,Sydney,183,8,20,Win,Virat Kohli
+559,India,Australia,Sydney,146,4,20,Win,Rohit Sharma
+560,Sri Lanka,New Zealand,Delhi,202,10,20,Loss,Babar Azam
+561,Sri Lanka,South Africa,Sydney,193,9,20,Loss,Virat Kohli
+562,England,India,Auckland,186,4,20,Loss,Ben Stokes
+563,South Africa,Pakistan,Auckland,183,9,20,Loss,Quinton de Kock
+564,India,New Zealand,Auckland,210,7,20,Loss,Joe Root
+565,Bangladesh,South Africa,London,159,8,20,Loss,Rohit Sharma
+566,Sri Lanka,Australia,Lahore,164,4,20,Win,Ben Stokes
+567,Sri Lanka,South Africa,Lahore,167,10,20,Win,Joe Root
+568,South Africa,England,Cape Town,165,9,20,Win,Babar Azam
+569,New Zealand,England,Melbourne,181,6,20,Loss,Joe Root
+570,Pakistan,South Africa,Delhi,214,9,20,Win,Virat Kohli
+571,Pakistan,Sri Lanka,Cape Town,218,8,20,Win,Rohit Sharma
+572,Sri Lanka,India,Auckland,215,6,20,Win,Joe Root
+573,South Africa,Sri Lanka,Lahore,145,5,20,Win,Babar Azam
+574,India,New Zealand,Lahore,218,7,20,Loss,Joe Root
+575,Pakistan,New Zealand,Cape Town,204,9,20,Win,Steve Smith
+576,Bangladesh,England,Sydney,213,3,20,Loss,Joe Root
+577,England,New Zealand,Auckland,219,7,20,Loss,Steve Smith
+578,South Africa,New Zealand,Delhi,193,6,20,Loss,Ben Stokes
+579,Australia,South Africa,Melbourne,156,9,20,Win,Steve Smith
+580,New Zealand,England,Lahore,170,5,20,Loss,Babar Azam
+581,New Zealand,Bangladesh,Auckland,170,3,20,Win,Quinton de Kock
+582,Pakistan,Sri Lanka,Cape Town,195,6,20,Win,Steve Smith
+583,England,India,Melbourne,130,4,20,Win,Joe Root
+584,India,Sri Lanka,Delhi,141,5,20,Win,Rohit Sharma
+585,England,Pakistan,Lahore,150,5,20,Loss,Ben Stokes
+586,South Africa,Australia,Auckland,205,7,20,Win,Joe Root
+587,India,South Africa,Cape Town,138,6,20,Win,Kane Williamson
+588,Pakistan,Sri Lanka,Melbourne,121,10,20,Win,Quinton de Kock
+589,Pakistan,England,Auckland,204,3,20,Loss,Quinton de Kock
+590,Australia,India,Lahore,185,7,20,Win,Quinton de Kock
+591,Pakistan,South Africa,Lahore,200,7,20,Loss,Steve Smith
+592,Sri Lanka,England,Cape Town,217,6,20,Win,Ben Stokes
+593,Bangladesh,New Zealand,London,191,8,20,Loss,Kane Williamson
+594,India,Pakistan,Cape Town,214,9,20,Win,Babar Azam
+595,New Zealand,Bangladesh,London,177,9,20,Loss,Rohit Sharma
+596,New Zealand,Bangladesh,London,135,9,20,Loss,Babar Azam
+597,Bangladesh,England,Cape Town,124,6,20,Win,Babar Azam
+598,Sri Lanka,England,Cape Town,206,6,20,Win,Ben Stokes
+599,Australia,Bangladesh,Sydney,197,8,20,Win,Kane Williamson
+600,India,Bangladesh,Sydney,208,7,20,Loss,Quinton de Kock

@@ -1,0 +1,501 @@
+content_id,type,title,director,country,genre,rating,release_year,date_added,duration,views_millions
+C0001,Movie,Title_1,Director_32,Canada,Action,TV-MA,2000,2023-04-26,115 min,26.52
+C0002,Movie,Title_2,Director_4,India,Thriller,PG,2018,2019-09-25,84 min,126.83
+C0003,Movie,Title_3,Director_84,Spain,Sci-Fi,PG,2017,2017-03-25,171 min,112.85
+C0004,TV Show,Title_4,Director_98,UK,Sci-Fi,PG-13,2025,2024-09-30,1 Seasons,70.19
+C0005,Movie,Title_5,Director_12,South Korea,Comedy,PG-13,2024,2018-10-10,93 min,212.03
+C0006,TV Show,Title_6,Director_69,India,Sci-Fi,G,2025,2015-06-27,8 Seasons,138.46
+C0007,TV Show,Title_7,Director_6,Canada,Documentary,G,2018,2017-02-26,2 Seasons,213.97
+C0008,Movie,Title_8,Director_82,Japan,Action,PG-13,2012,2018-02-12,138 min,89.46
+C0009,TV Show,Title_9,Director_78,UK,Adventure,TV-MA,2022,2022-08-31,2 Seasons,61.96
+C0010,TV Show,Title_10,Director_88,Japan,Drama,PG,2012,2018-01-10,4 Seasons,205.63
+C0011,TV Show,Title_11,Director_28,Australia,Romance,PG,2012,2018-01-01,2 Seasons,164.2
+C0012,TV Show,Title_12,Director_34,UK,Thriller,TV-MA,2020,2020-02-23,3 Seasons,140.78
+C0013,TV Show,Title_13,Director_115,Australia,Sci-Fi,PG-13,2023,2021-07-22,7 Seasons,55.61
+C0014,Movie,Title_14,Director_97,USA,Comedy,PG,2016,2020-07-14,91 min,157.23
+C0015,TV Show,Title_15,Director_49,Australia,Horror,TV-14,2019,2015-09-18,7 Seasons,63.6
+C0016,Movie,Title_16,Director_88,Spain,Documentary,TV-MA,2021,2023-01-31,94 min,85.7
+C0017,TV Show,Title_17,Director_1,Germany,Adventure,PG,2013,2016-10-09,8 Seasons,127.41
+C0018,Movie,Title_18,Director_65,Australia,Thriller,PG,2020,2018-05-07,161 min,94.1
+C0019,Movie,Title_19,Director_118,USA,Romance,R,2017,2023-09-25,147 min,5.85
+C0020,TV Show,Title_20,Director_8,Canada,Comedy,G,2025,2018-06-13,4 Seasons,183.24
+C0021,Movie,Title_21,Director_17,UK,Horror,TV-14,2024,2020-12-21,178 min,42.12
+C0022,TV Show,Title_22,Director_92,Germany,Sci-Fi,TV-MA,2006,2021-01-17,4 Seasons,162.82
+C0023,TV Show,Title_23,Director_32,Canada,Comedy,PG-13,2016,2020-01-24,2 Seasons,6.24
+C0024,Movie,Title_24,Director_10,USA,Thriller,G,2018,2017-06-21,80 min,226.45
+C0025,TV Show,Title_25,Director_36,France,Thriller,TV-14,2002,2020-10-06,4 Seasons,33.95
+C0026,TV Show,Title_26,Director_104,South Korea,Thriller,G,2007,2023-10-19,8 Seasons,25.14
+C0027,TV Show,Title_27,Director_60,USA,Comedy,G,2011,2019-10-01,7 Seasons,101.25
+C0028,TV Show,Title_28,Director_32,Canada,Thriller,TV-14,2025,2024-08-30,2 Seasons,112.7
+C0029,TV Show,Title_29,Director_32,India,Horror,TV-14,2005,2018-02-14,8 Seasons,25.38
+C0030,Movie,Title_30,Director_22,South Korea,Horror,R,2002,2023-06-14,110 min,54.22
+C0031,TV Show,Title_31,Director_1,South Korea,Documentary,R,2001,2016-11-05,7 Seasons,72.03
+C0032,TV Show,Title_32,Director_28,USA,Adventure,G,2004,2017-02-16,5 Seasons,187.25
+C0033,Movie,Title_33,Director_65,Spain,Action,G,2001,2021-07-20,141 min,240.23
+C0034,Movie,Title_34,Director_9,Canada,Sci-Fi,G,2005,2015-10-08,156 min,235.46
+C0035,Movie,Title_35,Director_80,India,Sci-Fi,TV-MA,2018,2021-09-01,85 min,146.33
+C0036,TV Show,Title_36,Director_31,Germany,Sci-Fi,PG,2008,2017-04-16,6 Seasons,168.25
+C0037,TV Show,Title_37,Director_2,France,Comedy,G,2014,2018-07-19,2 Seasons,134.87
+C0038,TV Show,Title_38,Director_113,Canada,Romance,PG-13,2004,2018-11-30,2 Seasons,40.28
+C0039,TV Show,Title_39,Director_86,Spain,Documentary,TV-MA,2019,2024-01-19,1 Seasons,26.79
+C0040,Movie,Title_40,Director_96,Spain,Action,PG-13,2008,2016-04-17,93 min,71.16
+C0041,Movie,Title_41,Director_88,Germany,Adventure,R,2022,2018-11-05,106 min,63.53
+C0042,Movie,Title_42,Director_107,Germany,Drama,G,2002,2022-02-11,134 min,84.06
+C0043,Movie,Title_43,Director_95,France,Adventure,TV-MA,2020,2017-12-08,100 min,107.49
+C0044,Movie,Title_44,Director_116,UK,Adventure,G,2003,2015-11-05,168 min,208.81
+C0045,Movie,Title_45,Director_40,Japan,Drama,PG-13,2013,2016-06-06,85 min,53.31
+C0046,Movie,Title_46,Director_100,Spain,Sci-Fi,TV-14,2021,2016-02-26,125 min,187.62
+C0047,Movie,Title_47,Director_113,South Korea,Drama,PG,2005,2023-12-21,102 min,184.4
+C0048,TV Show,Title_48,Director_35,UK,Comedy,R,2025,2019-08-14,4 Seasons,218.17
+C0049,TV Show,Title_49,Director_45,Germany,Thriller,PG,2007,2017-03-28,8 Seasons,6.89
+C0050,Movie,Title_50,Director_111,India,Documentary,PG-13,2012,2018-09-06,115 min,160.73
+C0051,TV Show,Title_51,Director_4,India,Documentary,PG,2021,2024-06-17,6 Seasons,145.57
+C0052,TV Show,Title_52,Director_45,Japan,Sci-Fi,TV-14,2001,2016-03-20,7 Seasons,246.07
+C0053,Movie,Title_53,Director_33,USA,Sci-Fi,G,2012,2021-06-19,104 min,130.46
+C0054,Movie,Title_54,Director_86,Japan,Romance,TV-MA,2011,2019-11-02,88 min,212.16
+C0055,TV Show,Title_55,Director_42,South Korea,Documentary,TV-14,2016,2018-06-20,7 Seasons,32.69
+C0056,TV Show,Title_56,Director_79,Australia,Documentary,R,2021,2019-04-02,3 Seasons,137.44
+C0057,Movie,Title_57,Director_56,Australia,Romance,R,2009,2018-03-21,106 min,111.0
+C0058,Movie,Title_58,Director_22,India,Documentary,TV-14,2016,2020-04-22,174 min,166.3
+C0059,TV Show,Title_59,Director_87,Germany,Thriller,PG,2002,2024-03-06,4 Seasons,37.69
+C0060,Movie,Title_60,Director_109,India,Horror,R,2007,2020-04-30,158 min,221.65
+C0061,Movie,Title_61,Director_64,South Korea,Thriller,PG,2022,2022-10-23,129 min,164.36
+C0062,Movie,Title_62,Director_114,India,Sci-Fi,PG,2024,2024-08-25,178 min,44.8
+C0063,TV Show,Title_63,Director_118,India,Horror,PG,2001,2021-04-02,4 Seasons,200.55
+C0064,TV Show,Title_64,Director_107,Spain,Horror,PG,2024,2019-12-18,7 Seasons,186.17
+C0065,TV Show,Title_65,Director_108,Germany,Adventure,R,2014,2017-11-27,4 Seasons,157.06
+C0066,TV Show,Title_66,Director_31,Germany,Romance,PG-13,2014,2015-11-14,5 Seasons,223.36
+C0067,Movie,Title_67,Director_50,UK,Thriller,G,2004,2016-09-09,109 min,104.3
+C0068,TV Show,Title_68,Director_8,Canada,Sci-Fi,R,2017,2020-03-23,7 Seasons,226.3
+C0069,Movie,Title_69,Director_62,USA,Romance,PG-13,2024,2021-06-16,128 min,188.62
+C0070,TV Show,Title_70,Director_63,Canada,Documentary,R,2017,2023-05-20,4 Seasons,121.92
+C0071,TV Show,Title_71,Director_93,UK,Horror,PG,2010,2022-07-02,7 Seasons,245.2
+C0072,Movie,Title_72,Director_85,USA,Comedy,TV-MA,2012,2021-08-21,152 min,107.72
+C0073,TV Show,Title_73,Director_49,Japan,Thriller,R,2005,2015-07-25,5 Seasons,82.38
+C0074,TV Show,Title_74,Director_33,India,Horror,G,2008,2023-06-08,7 Seasons,187.51
+C0075,Movie,Title_75,Director_9,USA,Drama,PG,2011,2017-07-07,163 min,50.64
+C0076,Movie,Title_76,Director_17,France,Comedy,TV-14,2019,2016-09-16,110 min,236.99
+C0077,TV Show,Title_77,Director_22,Australia,Comedy,PG,2022,2017-11-15,6 Seasons,241.22
+C0078,Movie,Title_78,Director_74,South Korea,Sci-Fi,TV-MA,2018,2015-04-16,119 min,50.38
+C0079,Movie,Title_79,Director_39,Australia,Comedy,TV-14,2003,2022-10-26,178 min,195.88
+C0080,TV Show,Title_80,Director_9,Spain,Romance,G,2017,2019-10-21,6 Seasons,212.54
+C0081,TV Show,Title_81,Director_82,France,Action,R,2003,2019-11-11,6 Seasons,44.86
+C0082,TV Show,Title_82,Director_60,South Korea,Documentary,PG-13,2019,2024-01-24,8 Seasons,213.08
+C0083,Movie,Title_83,Director_32,France,Sci-Fi,PG-13,2008,2024-11-20,137 min,8.15
+C0084,TV Show,Title_84,Director_46,Germany,Romance,PG-13,2005,2020-06-20,4 Seasons,220.2
+C0085,TV Show,Title_85,Director_11,Canada,Sci-Fi,R,2017,2015-02-11,4 Seasons,139.24
+C0086,Movie,Title_86,Director_92,France,Horror,G,2022,2020-05-04,162 min,24.17
+C0087,Movie,Title_87,Director_40,Australia,Romance,R,2012,2022-10-04,111 min,138.81
+C0088,TV Show,Title_88,Director_46,France,Documentary,PG-13,2013,2023-05-14,6 Seasons,63.6
+C0089,Movie,Title_89,Director_16,Spain,Action,PG,2023,2017-02-27,120 min,54.88
+C0090,TV Show,Title_90,Director_13,Canada,Documentary,PG,2008,2023-02-15,5 Seasons,90.86
+C0091,TV Show,Title_91,Director_36,USA,Drama,TV-14,2000,2022-12-10,3 Seasons,73.74
+C0092,Movie,Title_92,Director_63,India,Drama,TV-14,2020,2024-09-27,176 min,71.8
+C0093,TV Show,Title_93,Director_7,Germany,Horror,G,2014,2018-10-27,3 Seasons,205.71
+C0094,TV Show,Title_94,Director_20,UK,Documentary,G,2015,2015-10-31,1 Seasons,248.49
+C0095,Movie,Title_95,Director_78,Australia,Thriller,TV-14,2017,2023-07-29,133 min,95.71
+C0096,TV Show,Title_96,Director_40,Australia,Drama,TV-14,2009,2024-08-24,7 Seasons,240.07
+C0097,Movie,Title_97,Director_28,Germany,Comedy,PG,2024,2017-05-01,160 min,60.73
+C0098,Movie,Title_98,Director_58,Australia,Horror,PG-13,2005,2015-01-11,132 min,9.13
+C0099,TV Show,Title_99,Director_10,Canada,Documentary,TV-MA,2022,2018-03-04,8 Seasons,147.86
+C0100,Movie,Title_100,Director_29,UK,Documentary,PG,2013,2016-04-15,149 min,18.78
+C0101,Movie,Title_101,Director_96,Australia,Documentary,R,2025,2018-06-13,156 min,31.96
+C0102,TV Show,Title_102,Director_65,Spain,Horror,R,2022,2019-07-07,5 Seasons,21.03
+C0103,Movie,Title_103,Director_78,Germany,Drama,G,2013,2023-03-28,121 min,58.0
+C0104,Movie,Title_104,Director_74,USA,Action,R,2024,2022-07-16,114 min,130.22
+C0105,TV Show,Title_105,Director_82,France,Comedy,R,2008,2017-01-13,7 Seasons,87.64
+C0106,TV Show,Title_106,Director_110,UK,Romance,R,2010,2022-07-07,2 Seasons,173.72
+C0107,TV Show,Title_107,Director_59,India,Romance,PG-13,2021,2019-06-29,1 Seasons,81.5
+C0108,TV Show,Title_108,Director_85,Spain,Horror,R,2016,2024-04-01,1 Seasons,14.5
+C0109,TV Show,Title_109,Director_81,France,Drama,PG,2019,2023-06-26,8 Seasons,67.5
+C0110,Movie,Title_110,Director_63,India,Drama,TV-MA,2009,2019-11-30,169 min,152.61
+C0111,Movie,Title_111,Director_71,USA,Adventure,R,2022,2016-10-10,119 min,24.21
+C0112,Movie,Title_112,Director_107,UK,Horror,TV-MA,2014,2016-04-26,162 min,73.67
+C0113,TV Show,Title_113,Director_61,Canada,Horror,TV-14,2013,2024-05-12,8 Seasons,37.02
+C0114,Movie,Title_114,Director_113,UK,Comedy,PG-13,2019,2020-09-12,175 min,193.4
+C0115,TV Show,Title_115,Director_106,USA,Documentary,TV-MA,2010,2023-11-01,5 Seasons,75.34
+C0116,TV Show,Title_116,Director_45,Japan,Adventure,TV-14,2004,2020-01-04,8 Seasons,94.93
+C0117,TV Show,Title_117,Director_74,South Korea,Thriller,R,2006,2022-10-27,4 Seasons,11.87
+C0118,TV Show,Title_118,Director_50,UK,Horror,G,2022,2024-02-06,7 Seasons,32.44
+C0119,TV Show,Title_119,Director_13,Spain,Horror,G,2003,2024-10-20,8 Seasons,180.89
+C0120,TV Show,Title_120,Director_61,Germany,Romance,TV-14,2020,2016-09-24,2 Seasons,173.48
+C0121,Movie,Title_121,Director_110,Spain,Sci-Fi,PG-13,2010,2024-07-23,166 min,157.07
+C0122,TV Show,Title_122,Director_31,Germany,Thriller,TV-MA,2017,2015-05-28,2 Seasons,23.5
+C0123,Movie,Title_123,Director_112,India,Horror,PG,2024,2022-02-08,170 min,173.81
+C0124,Movie,Title_124,Director_38,Japan,Romance,R,2001,2018-08-21,87 min,37.25
+C0125,TV Show,Title_125,Director_22,UK,Comedy,TV-14,2018,2022-08-24,3 Seasons,217.84
+C0126,Movie,Title_126,Director_30,France,Documentary,R,2015,2021-07-16,98 min,64.58
+C0127,Movie,Title_127,Director_87,Spain,Action,G,2025,2020-03-20,116 min,110.99
+C0128,TV Show,Title_128,Director_89,Germany,Horror,PG-13,2018,2018-05-10,7 Seasons,50.61
+C0129,TV Show,Title_129,Director_49,Australia,Romance,TV-14,2015,2016-03-12,4 Seasons,74.67
+C0130,TV Show,Title_130,Director_36,USA,Drama,TV-14,2000,2024-04-22,7 Seasons,186.55
+C0131,TV Show,Title_131,Director_78,Japan,Thriller,TV-MA,2024,2023-12-17,4 Seasons,48.34
+C0132,TV Show,Title_132,Director_81,India,Drama,PG-13,2021,2023-06-22,3 Seasons,197.36
+C0133,Movie,Title_133,Director_17,India,Documentary,PG-13,2018,2019-02-03,173 min,187.12
+C0134,Movie,Title_134,Director_70,Japan,Adventure,TV-14,2006,2016-06-25,180 min,228.46
+C0135,Movie,Title_135,Director_104,Germany,Romance,G,2008,2024-03-31,141 min,117.61
+C0136,Movie,Title_136,Director_111,South Korea,Adventure,PG-13,2004,2023-06-17,108 min,23.49
+C0137,TV Show,Title_137,Director_59,Japan,Documentary,TV-14,2000,2017-12-19,2 Seasons,95.88
+C0138,TV Show,Title_138,Director_61,USA,Adventure,PG-13,2003,2022-07-27,4 Seasons,228.9
+C0139,Movie,Title_139,Director_106,France,Documentary,TV-MA,2020,2015-09-16,161 min,102.67
+C0140,Movie,Title_140,Director_64,India,Comedy,PG,2001,2015-06-02,118 min,221.93
+C0141,Movie,Title_141,Director_86,Spain,Sci-Fi,TV-14,2012,2020-02-02,127 min,185.82
+C0142,Movie,Title_142,Director_107,France,Sci-Fi,PG-13,2013,2022-05-06,92 min,9.15
+C0143,TV Show,Title_143,Director_31,Japan,Comedy,TV-MA,2006,2019-12-22,8 Seasons,92.47
+C0144,TV Show,Title_144,Director_25,India,Horror,G,2001,2019-06-19,5 Seasons,166.03
+C0145,Movie,Title_145,Director_32,UK,Thriller,G,2001,2023-10-28,122 min,207.62
+C0146,Movie,Title_146,Director_43,UK,Drama,PG-13,2018,2017-06-03,109 min,214.74
+C0147,Movie,Title_147,Director_103,UK,Comedy,TV-MA,2004,2021-01-21,112 min,216.75
+C0148,Movie,Title_148,Director_31,Australia,Romance,G,2000,2019-01-07,180 min,44.39
+C0149,Movie,Title_149,Director_68,India,Comedy,R,2004,2023-04-27,133 min,112.62
+C0150,TV Show,Title_150,Director_58,Spain,Thriller,TV-14,2016,2021-08-28,2 Seasons,11.8
+C0151,TV Show,Title_151,Director_8,France,Sci-Fi,R,2014,2022-03-20,1 Seasons,171.84
+C0152,TV Show,Title_152,Director_116,India,Romance,TV-14,2022,2019-12-22,2 Seasons,37.94
+C0153,Movie,Title_153,Director_75,Spain,Romance,R,2008,2022-01-01,161 min,248.66
+C0154,TV Show,Title_154,Director_13,India,Adventure,TV-MA,2014,2020-09-01,7 Seasons,216.51
+C0155,TV Show,Title_155,Director_53,Japan,Horror,R,2014,2024-12-16,4 Seasons,104.58
+C0156,Movie,Title_156,Director_86,Germany,Romance,PG,2010,2019-10-15,120 min,172.02
+C0157,TV Show,Title_157,Director_12,South Korea,Comedy,TV-MA,2002,2016-01-09,2 Seasons,184.96
+C0158,Movie,Title_158,Director_72,Spain,Romance,TV-MA,2017,2015-09-03,155 min,31.44
+C0159,TV Show,Title_159,Director_112,USA,Documentary,TV-14,2021,2023-06-01,7 Seasons,78.8
+C0160,Movie,Title_160,Director_20,France,Thriller,G,2018,2020-09-09,107 min,88.18
+C0161,TV Show,Title_161,Director_74,Canada,Sci-Fi,TV-14,2003,2023-07-21,5 Seasons,243.66
+C0162,Movie,Title_162,Director_35,USA,Action,PG-13,2019,2022-05-18,168 min,175.97
+C0163,TV Show,Title_163,Director_24,UK,Sci-Fi,G,2010,2018-12-08,1 Seasons,36.33
+C0164,Movie,Title_164,Director_28,South Korea,Sci-Fi,R,2002,2023-05-15,147 min,85.88
+C0165,TV Show,Title_165,Director_100,Australia,Comedy,G,2009,2023-02-03,6 Seasons,39.74
+C0166,Movie,Title_166,Director_57,South Korea,Horror,TV-14,2021,2015-12-01,114 min,111.07
+C0167,TV Show,Title_167,Director_45,South Korea,Comedy,PG-13,2006,2023-06-20,2 Seasons,169.88
+C0168,TV Show,Title_168,Director_6,Canada,Sci-Fi,TV-14,2016,2022-06-25,5 Seasons,14.64
+C0169,Movie,Title_169,Director_18,Germany,Documentary,PG-13,2009,2017-05-15,178 min,30.88
+C0170,TV Show,Title_170,Director_17,South Korea,Adventure,TV-MA,2023,2019-10-30,3 Seasons,58.3
+C0171,TV Show,Title_171,Director_56,USA,Horror,G,2002,2019-06-15,1 Seasons,215.67
+C0172,TV Show,Title_172,Director_38,India,Sci-Fi,G,2018,2019-07-15,7 Seasons,241.58
+C0173,Movie,Title_173,Director_107,Japan,Comedy,R,2025,2021-12-06,138 min,211.28
+C0174,Movie,Title_174,Director_68,India,Sci-Fi,PG-13,2013,2021-08-09,131 min,186.71
+C0175,Movie,Title_175,Director_10,Spain,Comedy,TV-14,2010,2023-09-27,101 min,127.98
+C0176,TV Show,Title_176,Director_31,India,Action,PG-13,2011,2023-02-27,3 Seasons,50.12
+C0177,Movie,Title_177,Director_10,UK,Horror,R,2024,2023-07-07,163 min,188.86
+C0178,TV Show,Title_178,Director_111,Japan,Action,R,2021,2024-11-21,6 Seasons,18.0
+C0179,TV Show,Title_179,Director_76,USA,Romance,TV-14,2020,2018-05-25,5 Seasons,19.47
+C0180,TV Show,Title_180,Director_48,Germany,Comedy,TV-MA,2014,2015-06-04,1 Seasons,216.2
+C0181,Movie,Title_181,Director_50,France,Adventure,TV-MA,2019,2021-08-30,144 min,224.07
+C0182,TV Show,Title_182,Director_42,Australia,Horror,TV-14,2025,2021-05-30,4 Seasons,38.56
+C0183,Movie,Title_183,Director_92,India,Adventure,TV-MA,2014,2016-02-28,123 min,43.97
+C0184,Movie,Title_184,Director_68,Spain,Action,PG-13,2022,2019-11-29,136 min,93.84
+C0185,TV Show,Title_185,Director_87,Australia,Drama,TV-MA,2012,2019-08-02,6 Seasons,162.18
+C0186,Movie,Title_186,Director_87,South Korea,Documentary,PG-13,2010,2016-01-23,151 min,181.21
+C0187,Movie,Title_187,Director_85,UK,Romance,PG-13,2010,2015-11-30,154 min,241.96
+C0188,TV Show,Title_188,Director_40,Spain,Sci-Fi,TV-MA,2004,2021-09-03,2 Seasons,198.12
+C0189,Movie,Title_189,Director_88,Spain,Comedy,TV-MA,2021,2022-11-18,174 min,167.94
+C0190,TV Show,Title_190,Director_24,Canada,Romance,R,2000,2019-01-25,5 Seasons,48.81
+C0191,Movie,Title_191,Director_109,India,Adventure,TV-14,2004,2015-11-13,117 min,208.94
+C0192,Movie,Title_192,Director_80,UK,Sci-Fi,PG,2021,2018-10-11,178 min,41.4
+C0193,Movie,Title_193,Director_53,Japan,Thriller,R,2023,2019-11-28,85 min,153.04
+C0194,TV Show,Title_194,Director_40,France,Thriller,PG-13,2007,2020-12-27,4 Seasons,169.9
+C0195,TV Show,Title_195,Director_100,South Korea,Adventure,TV-14,2014,2023-08-18,5 Seasons,105.25
+C0196,Movie,Title_196,Director_18,Germany,Drama,TV-MA,2006,2023-12-26,157 min,120.67
+C0197,TV Show,Title_197,Director_37,India,Action,PG-13,2017,2016-02-25,2 Seasons,112.88
+C0198,Movie,Title_198,Director_105,France,Romance,G,2013,2016-01-11,108 min,104.31
+C0199,TV Show,Title_199,Director_50,India,Romance,PG,2016,2019-03-12,4 Seasons,8.02
+C0200,Movie,Title_200,Director_102,UK,Action,G,2022,2022-04-16,122 min,72.43
+C0201,TV Show,Title_201,Director_98,France,Horror,TV-14,2022,2024-04-27,3 Seasons,2.31
+C0202,Movie,Title_202,Director_107,UK,Adventure,TV-MA,2000,2017-11-14,107 min,152.61
+C0203,TV Show,Title_203,Director_31,Germany,Comedy,G,2003,2023-09-15,5 Seasons,60.37
+C0204,TV Show,Title_204,Director_77,Spain,Drama,TV-MA,2002,2016-03-30,8 Seasons,129.33
+C0205,Movie,Title_205,Director_55,USA,Romance,PG,2022,2016-08-11,117 min,143.1
+C0206,Movie,Title_206,Director_68,Japan,Comedy,TV-14,2021,2022-06-30,90 min,136.48
+C0207,Movie,Title_207,Director_6,South Korea,Romance,PG-13,2012,2024-10-17,140 min,187.08
+C0208,TV Show,Title_208,Director_31,India,Romance,PG,2025,2015-10-04,6 Seasons,12.04
+C0209,TV Show,Title_209,Director_90,France,Action,PG,2020,2016-12-18,8 Seasons,16.71
+C0210,TV Show,Title_210,Director_6,Canada,Drama,PG-13,2001,2018-04-16,4 Seasons,233.41
+C0211,TV Show,Title_211,Director_5,Canada,Documentary,PG-13,2017,2020-04-23,5 Seasons,215.67
+C0212,Movie,Title_212,Director_16,Japan,Sci-Fi,R,2020,2018-09-21,114 min,186.08
+C0213,TV Show,Title_213,Director_89,France,Romance,TV-14,2010,2017-02-04,8 Seasons,67.41
+C0214,Movie,Title_214,Director_56,Australia,Action,TV-14,2023,2019-10-05,90 min,74.15
+C0215,Movie,Title_215,Director_38,Germany,Horror,TV-14,2002,2018-09-05,164 min,179.7
+C0216,Movie,Title_216,Director_58,USA,Romance,TV-14,2022,2019-12-24,124 min,249.54
+C0217,TV Show,Title_217,Director_10,South Korea,Romance,TV-14,2020,2023-11-16,1 Seasons,200.47
+C0218,Movie,Title_218,Director_87,France,Drama,PG,2000,2016-08-07,157 min,17.74
+C0219,TV Show,Title_219,Director_78,UK,Horror,PG-13,2011,2019-04-18,1 Seasons,93.63
+C0220,Movie,Title_220,Director_47,South Korea,Romance,TV-MA,2018,2016-07-17,147 min,70.39
+C0221,Movie,Title_221,Director_64,Spain,Sci-Fi,TV-14,2000,2023-04-02,103 min,30.32
+C0222,TV Show,Title_222,Director_79,Germany,Horror,PG,2022,2020-01-02,4 Seasons,31.54
+C0223,Movie,Title_223,Director_57,India,Romance,TV-MA,2014,2016-12-08,171 min,87.51
+C0224,Movie,Title_224,Director_115,Germany,Action,TV-MA,2017,2021-01-29,117 min,177.68
+C0225,Movie,Title_225,Director_29,India,Thriller,PG,2025,2019-01-20,145 min,59.95
+C0226,TV Show,Title_226,Director_60,Spain,Action,TV-14,2000,2019-01-18,6 Seasons,221.18
+C0227,Movie,Title_227,Director_93,France,Adventure,R,2009,2019-06-19,171 min,192.52
+C0228,Movie,Title_228,Director_10,France,Horror,TV-MA,2004,2018-07-22,162 min,129.82
+C0229,Movie,Title_229,Director_76,UK,Action,R,2024,2021-03-08,161 min,126.21
+C0230,Movie,Title_230,Director_39,UK,Action,PG-13,2003,2020-10-23,99 min,233.75
+C0231,Movie,Title_231,Director_109,India,Documentary,PG,2011,2020-10-26,116 min,159.13
+C0232,TV Show,Title_232,Director_79,Spain,Comedy,TV-14,2004,2022-01-04,5 Seasons,160.61
+C0233,Movie,Title_233,Director_93,Australia,Romance,TV-14,2005,2022-05-22,159 min,11.26
+C0234,Movie,Title_234,Director_99,Australia,Documentary,TV-MA,2002,2015-07-06,162 min,53.49
+C0235,TV Show,Title_235,Director_64,Spain,Documentary,TV-MA,2019,2022-03-02,1 Seasons,239.21
+C0236,TV Show,Title_236,Director_39,France,Comedy,TV-MA,2007,2024-01-10,7 Seasons,15.92
+C0237,TV Show,Title_237,Director_27,Japan,Action,PG-13,2013,2020-06-06,8 Seasons,215.51
+C0238,TV Show,Title_238,Director_52,UK,Romance,TV-14,2023,2024-08-26,6 Seasons,140.85
+C0239,TV Show,Title_239,Director_35,France,Thriller,PG,2007,2020-03-25,2 Seasons,25.11
+C0240,TV Show,Title_240,Director_32,UK,Romance,TV-14,2012,2024-09-09,7 Seasons,180.56
+C0241,Movie,Title_241,Director_66,France,Horror,PG-13,2024,2016-10-14,143 min,124.85
+C0242,Movie,Title_242,Director_31,Canada,Romance,G,2012,2020-09-01,138 min,13.58
+C0243,TV Show,Title_243,Director_37,Spain,Drama,G,2019,2024-11-23,8 Seasons,108.3
+C0244,TV Show,Title_244,Director_47,USA,Sci-Fi,G,2023,2019-02-07,7 Seasons,143.0
+C0245,Movie,Title_245,Director_10,South Korea,Adventure,R,2011,2021-03-16,116 min,191.34
+C0246,TV Show,Title_246,Director_17,India,Sci-Fi,PG-13,2019,2022-08-18,2 Seasons,198.93
+C0247,TV Show,Title_247,Director_26,Australia,Adventure,R,2017,2019-02-06,3 Seasons,125.52
+C0248,Movie,Title_248,Director_43,France,Adventure,R,2001,2016-07-15,171 min,38.09
+C0249,Movie,Title_249,Director_21,South Korea,Documentary,TV-14,2010,2021-11-16,120 min,84.76
+C0250,TV Show,Title_250,Director_61,USA,Romance,PG-13,2022,2021-04-24,5 Seasons,168.78
+C0251,TV Show,Title_251,Director_77,France,Documentary,TV-MA,2018,2018-06-14,1 Seasons,195.94
+C0252,Movie,Title_252,Director_62,UK,Adventure,TV-MA,2023,2015-07-30,154 min,180.57
+C0253,TV Show,Title_253,Director_5,Australia,Comedy,PG,2004,2024-03-19,4 Seasons,5.72
+C0254,TV Show,Title_254,Director_89,Canada,Sci-Fi,TV-14,2013,2016-09-12,7 Seasons,193.97
+C0255,TV Show,Title_255,Director_91,UK,Adventure,PG,2023,2023-02-27,1 Seasons,140.66
+C0256,TV Show,Title_256,Director_23,France,Adventure,PG-13,2016,2019-03-24,6 Seasons,137.02
+C0257,TV Show,Title_257,Director_32,Germany,Adventure,PG-13,2019,2020-06-06,4 Seasons,56.99
+C0258,TV Show,Title_258,Director_89,France,Romance,R,2024,2018-03-29,4 Seasons,87.85
+C0259,TV Show,Title_259,Director_115,South Korea,Romance,PG,2009,2016-05-14,7 Seasons,73.32
+C0260,TV Show,Title_260,Director_119,France,Documentary,TV-MA,2022,2015-11-20,6 Seasons,120.29
+C0261,Movie,Title_261,Director_90,Germany,Action,G,2017,2018-01-15,151 min,154.3
+C0262,Movie,Title_262,Director_116,Spain,Thriller,TV-MA,2007,2015-07-27,165 min,58.98
+C0263,Movie,Title_263,Director_61,India,Action,G,2013,2018-09-14,171 min,241.17
+C0264,Movie,Title_264,Director_62,Canada,Documentary,PG-13,2013,2022-04-28,140 min,72.07
+C0265,Movie,Title_265,Director_74,Canada,Adventure,TV-MA,2024,2016-01-02,163 min,181.06
+C0266,Movie,Title_266,Director_120,USA,Sci-Fi,R,2005,2019-09-08,102 min,47.39
+C0267,TV Show,Title_267,Director_73,Australia,Comedy,PG-13,2001,2015-02-07,5 Seasons,71.86
+C0268,TV Show,Title_268,Director_35,Canada,Comedy,PG-13,2004,2024-07-17,8 Seasons,41.46
+C0269,TV Show,Title_269,Director_2,Japan,Documentary,TV-14,2020,2017-11-19,3 Seasons,168.93
+C0270,Movie,Title_270,Director_115,South Korea,Sci-Fi,TV-14,2005,2021-11-07,161 min,82.65
+C0271,TV Show,Title_271,Director_18,France,Romance,PG,2021,2016-01-26,3 Seasons,2.7
+C0272,TV Show,Title_272,Director_43,Germany,Drama,PG-13,2007,2020-01-04,5 Seasons,163.77
+C0273,Movie,Title_273,Director_60,Germany,Action,R,2001,2022-06-28,95 min,171.83
+C0274,TV Show,Title_274,Director_48,Australia,Thriller,PG,2022,2016-04-25,5 Seasons,239.38
+C0275,TV Show,Title_275,Director_54,Spain,Horror,TV-14,2004,2020-02-07,6 Seasons,200.7
+C0276,Movie,Title_276,Director_97,Australia,Comedy,TV-14,2024,2017-10-10,167 min,112.24
+C0277,TV Show,Title_277,Director_8,Spain,Adventure,PG,2002,2021-04-29,2 Seasons,143.6
+C0278,Movie,Title_278,Director_57,India,Thriller,TV-MA,2005,2018-09-05,146 min,146.2
+C0279,Movie,Title_279,Director_59,UK,Adventure,R,2016,2019-12-30,87 min,114.74
+C0280,Movie,Title_280,Director_104,Germany,Drama,R,2017,2020-03-08,166 min,64.36
+C0281,Movie,Title_281,Director_10,USA,Sci-Fi,PG-13,2023,2017-06-11,154 min,175.4
+C0282,Movie,Title_282,Director_37,South Korea,Action,PG,2002,2020-04-17,84 min,191.69
+C0283,TV Show,Title_283,Director_58,South Korea,Sci-Fi,G,2011,2024-12-29,7 Seasons,171.0
+C0284,Movie,Title_284,Director_16,UK,Adventure,R,2020,2024-08-24,124 min,132.68
+C0285,Movie,Title_285,Director_39,France,Adventure,R,2000,2023-06-25,82 min,133.45
+C0286,Movie,Title_286,Director_20,Germany,Thriller,TV-MA,2007,2020-03-01,124 min,191.61
+C0287,Movie,Title_287,Director_79,USA,Thriller,PG,2025,2022-05-28,133 min,17.76
+C0288,Movie,Title_288,Director_91,USA,Thriller,TV-MA,2014,2021-09-14,166 min,12.01
+C0289,TV Show,Title_289,Director_97,USA,Action,TV-14,2007,2021-01-19,4 Seasons,248.38
+C0290,Movie,Title_290,Director_74,Australia,Romance,PG,2023,2021-06-17,120 min,76.14
+C0291,Movie,Title_291,Director_53,Germany,Documentary,G,2021,2020-11-05,108 min,139.62
+C0292,Movie,Title_292,Director_72,France,Drama,PG-13,2020,2022-08-12,134 min,235.46
+C0293,TV Show,Title_293,Director_90,South Korea,Sci-Fi,PG,2025,2020-11-18,6 Seasons,75.67
+C0294,Movie,Title_294,Director_31,Canada,Documentary,TV-MA,2024,2021-01-12,140 min,36.94
+C0295,TV Show,Title_295,Director_54,Spain,Adventure,PG,2001,2021-04-22,7 Seasons,97.72
+C0296,TV Show,Title_296,Director_119,France,Romance,G,2006,2018-09-14,2 Seasons,134.37
+C0297,Movie,Title_297,Director_87,Australia,Drama,G,2001,2018-01-04,128 min,47.85
+C0298,Movie,Title_298,Director_39,USA,Thriller,PG,2015,2017-05-05,122 min,240.56
+C0299,Movie,Title_299,Director_118,Canada,Thriller,R,2023,2023-06-17,141 min,228.87
+C0300,TV Show,Title_300,Director_60,Spain,Romance,PG-13,2024,2018-03-05,7 Seasons,66.13
+C0301,TV Show,Title_301,Director_98,Japan,Thriller,PG-13,2014,2016-02-08,8 Seasons,78.92
+C0302,Movie,Title_302,Director_95,UK,Drama,PG-13,2018,2024-09-09,108 min,138.77
+C0303,TV Show,Title_303,Director_43,Canada,Sci-Fi,TV-14,2009,2016-09-16,4 Seasons,208.51
+C0304,TV Show,Title_304,Director_33,France,Horror,R,2017,2022-05-05,6 Seasons,42.89
+C0305,TV Show,Title_305,Director_24,Spain,Drama,TV-14,2005,2016-07-27,8 Seasons,9.42
+C0306,Movie,Title_306,Director_1,South Korea,Action,TV-MA,2021,2015-07-18,177 min,58.63
+C0307,Movie,Title_307,Director_59,Japan,Drama,TV-14,2000,2017-06-14,144 min,159.79
+C0308,TV Show,Title_308,Director_1,Spain,Adventure,R,2021,2020-06-21,1 Seasons,3.95
+C0309,TV Show,Title_309,Director_65,South Korea,Action,G,2017,2018-03-20,1 Seasons,229.59
+C0310,Movie,Title_310,Director_68,Germany,Romance,PG-13,2007,2017-02-25,159 min,198.94
+C0311,Movie,Title_311,Director_73,Canada,Thriller,PG-13,2011,2019-07-22,138 min,171.33
+C0312,Movie,Title_312,Director_98,USA,Comedy,R,2020,2024-08-16,163 min,95.44
+C0313,TV Show,Title_313,Director_90,UK,Comedy,R,2001,2022-02-21,1 Seasons,211.49
+C0314,TV Show,Title_314,Director_115,Spain,Drama,PG,2018,2024-08-15,2 Seasons,53.64
+C0315,TV Show,Title_315,Director_88,Germany,Adventure,TV-14,2008,2015-07-10,2 Seasons,164.87
+C0316,Movie,Title_316,Director_76,UK,Sci-Fi,G,2010,2015-03-06,106 min,75.52
+C0317,Movie,Title_317,Director_87,Spain,Romance,R,2018,2024-05-11,129 min,189.15
+C0318,Movie,Title_318,Director_11,Spain,Romance,G,2025,2022-09-24,172 min,25.32
+C0319,Movie,Title_319,Director_99,Australia,Sci-Fi,PG-13,2002,2018-10-27,157 min,8.38
+C0320,TV Show,Title_320,Director_30,Japan,Adventure,R,2025,2020-01-20,8 Seasons,108.53
+C0321,TV Show,Title_321,Director_103,Canada,Comedy,G,2002,2023-08-29,5 Seasons,67.73
+C0322,TV Show,Title_322,Director_95,South Korea,Romance,PG-13,2022,2023-10-16,3 Seasons,27.53
+C0323,Movie,Title_323,Director_98,Germany,Comedy,PG,2009,2019-12-27,126 min,22.74
+C0324,TV Show,Title_324,Director_14,USA,Comedy,PG-13,2014,2021-03-31,7 Seasons,139.0
+C0325,TV Show,Title_325,Director_53,South Korea,Comedy,TV-MA,2012,2015-02-20,5 Seasons,225.38
+C0326,Movie,Title_326,Director_88,South Korea,Action,PG,2018,2020-11-04,101 min,67.96
+C0327,TV Show,Title_327,Director_22,South Korea,Documentary,R,2015,2016-08-20,2 Seasons,75.64
+C0328,Movie,Title_328,Director_93,France,Thriller,R,2011,2017-10-27,111 min,27.64
+C0329,TV Show,Title_329,Director_108,Australia,Sci-Fi,PG-13,2000,2019-06-09,6 Seasons,110.62
+C0330,TV Show,Title_330,Director_39,Japan,Thriller,R,2020,2021-08-31,3 Seasons,79.23
+C0331,TV Show,Title_331,Director_74,Canada,Romance,R,2010,2018-04-08,8 Seasons,70.79
+C0332,TV Show,Title_332,Director_76,Spain,Action,TV-MA,2011,2016-04-11,4 Seasons,192.14
+C0333,Movie,Title_333,Director_27,France,Documentary,TV-MA,2023,2020-03-05,170 min,18.22
+C0334,TV Show,Title_334,Director_82,Germany,Thriller,PG-13,2021,2020-08-07,3 Seasons,165.01
+C0335,TV Show,Title_335,Director_58,Australia,Horror,TV-14,2025,2019-03-25,2 Seasons,100.8
+C0336,TV Show,Title_336,Director_90,Spain,Comedy,G,2017,2015-05-31,6 Seasons,192.47
+C0337,TV Show,Title_337,Director_73,South Korea,Romance,R,2005,2022-04-04,1 Seasons,27.38
+C0338,Movie,Title_338,Director_96,Spain,Adventure,TV-14,2008,2017-06-28,145 min,172.23
+C0339,Movie,Title_339,Director_60,Australia,Adventure,PG,2014,2019-03-13,130 min,86.9
+C0340,Movie,Title_340,Director_54,India,Comedy,TV-MA,2015,2016-03-04,117 min,36.28
+C0341,TV Show,Title_341,Director_67,France,Romance,R,2010,2020-02-09,4 Seasons,25.31
+C0342,TV Show,Title_342,Director_6,India,Drama,PG-13,2010,2015-10-03,5 Seasons,162.34
+C0343,Movie,Title_343,Director_23,Spain,Action,PG-13,2023,2017-09-26,146 min,140.4
+C0344,TV Show,Title_344,Director_81,UK,Action,TV-MA,2007,2023-12-12,7 Seasons,164.67
+C0345,TV Show,Title_345,Director_58,Australia,Sci-Fi,R,2000,2023-04-09,4 Seasons,2.11
+C0346,Movie,Title_346,Director_91,India,Comedy,TV-14,2006,2018-02-14,176 min,47.55
+C0347,TV Show,Title_347,Director_34,France,Adventure,TV-MA,2006,2020-02-18,2 Seasons,79.04
+C0348,TV Show,Title_348,Director_45,Japan,Horror,TV-14,2019,2019-05-27,2 Seasons,43.96
+C0349,TV Show,Title_349,Director_87,UK,Romance,G,2019,2021-08-14,2 Seasons,60.4
+C0350,Movie,Title_350,Director_19,Spain,Sci-Fi,R,2005,2019-03-10,168 min,149.51
+C0351,TV Show,Title_351,Director_82,Spain,Action,TV-14,2013,2017-01-30,8 Seasons,42.55
+C0352,TV Show,Title_352,Director_108,France,Drama,PG-13,2004,2017-02-05,6 Seasons,238.01
+C0353,TV Show,Title_353,Director_72,Spain,Horror,R,2004,2017-03-10,7 Seasons,171.49
+C0354,TV Show,Title_354,Director_63,UK,Comedy,TV-14,2022,2024-06-02,8 Seasons,8.68
+C0355,Movie,Title_355,Director_29,Spain,Documentary,PG,2009,2015-05-14,115 min,195.4
+C0356,TV Show,Title_356,Director_74,India,Documentary,TV-14,2017,2020-09-23,2 Seasons,206.0
+C0357,TV Show,Title_357,Director_98,France,Adventure,PG,2017,2024-03-23,1 Seasons,247.45
+C0358,Movie,Title_358,Director_97,Canada,Documentary,G,2023,2024-04-22,163 min,112.98
+C0359,TV Show,Title_359,Director_100,Canada,Thriller,TV-MA,2002,2019-12-04,2 Seasons,147.39
+C0360,TV Show,Title_360,Director_22,Australia,Action,PG,2022,2021-11-04,7 Seasons,203.57
+C0361,Movie,Title_361,Director_36,Australia,Adventure,PG,2018,2018-12-07,148 min,81.59
+C0362,TV Show,Title_362,Director_110,Spain,Comedy,PG,2009,2021-06-03,5 Seasons,240.73
+C0363,TV Show,Title_363,Director_90,UK,Thriller,PG,2001,2018-02-09,3 Seasons,178.14
+C0364,Movie,Title_364,Director_51,France,Action,TV-14,2024,2024-06-17,166 min,158.47
+C0365,TV Show,Title_365,Director_82,India,Sci-Fi,TV-14,2012,2020-01-26,2 Seasons,187.7
+C0366,TV Show,Title_366,Director_75,USA,Comedy,TV-MA,2014,2020-06-22,6 Seasons,243.07
+C0367,TV Show,Title_367,Director_28,South Korea,Thriller,R,2002,2023-12-04,7 Seasons,67.87
+C0368,TV Show,Title_368,Director_73,France,Romance,TV-MA,2010,2021-02-19,3 Seasons,190.8
+C0369,Movie,Title_369,Director_108,France,Drama,G,2003,2022-01-08,180 min,232.43
+C0370,Movie,Title_370,Director_55,Canada,Action,TV-MA,2014,2020-02-13,80 min,76.16
+C0371,TV Show,Title_371,Director_33,India,Romance,TV-MA,2002,2022-05-05,6 Seasons,226.05
+C0372,Movie,Title_372,Director_40,Canada,Sci-Fi,TV-MA,2001,2019-06-12,160 min,23.71
+C0373,Movie,Title_373,Director_10,UK,Thriller,TV-14,2000,2017-05-24,141 min,170.32
+C0374,Movie,Title_374,Director_105,India,Sci-Fi,TV-MA,2000,2022-10-20,123 min,33.91
+C0375,Movie,Title_375,Director_94,India,Comedy,PG-13,2007,2019-04-19,91 min,92.52
+C0376,TV Show,Title_376,Director_83,UK,Comedy,TV-14,2004,2019-04-17,3 Seasons,141.26
+C0377,Movie,Title_377,Director_28,UK,Sci-Fi,TV-14,2014,2018-12-09,172 min,171.95
+C0378,Movie,Title_378,Director_97,India,Sci-Fi,PG-13,2002,2016-02-16,97 min,240.85
+C0379,TV Show,Title_379,Director_36,India,Thriller,TV-14,2025,2016-07-26,4 Seasons,150.65
+C0380,TV Show,Title_380,Director_109,Germany,Thriller,TV-14,2024,2022-09-29,1 Seasons,152.12
+C0381,Movie,Title_381,Director_83,USA,Thriller,R,2023,2019-05-24,117 min,97.09
+C0382,Movie,Title_382,Director_10,Spain,Drama,PG-13,2015,2022-02-26,156 min,233.55
+C0383,Movie,Title_383,Director_54,Japan,Adventure,TV-MA,2012,2024-08-26,152 min,44.02
+C0384,TV Show,Title_384,Director_76,India,Drama,PG-13,2024,2015-10-26,1 Seasons,54.72
+C0385,Movie,Title_385,Director_37,Spain,Sci-Fi,R,2025,2019-06-19,144 min,175.75
+C0386,Movie,Title_386,Director_79,UK,Documentary,G,2020,2021-01-06,148 min,78.17
+C0387,Movie,Title_387,Director_42,South Korea,Comedy,PG-13,2025,2016-09-28,148 min,174.97
+C0388,Movie,Title_388,Director_119,South Korea,Comedy,R,2001,2017-09-28,91 min,153.46
+C0389,Movie,Title_389,Director_85,UK,Comedy,G,2009,2022-06-21,174 min,177.27
+C0390,Movie,Title_390,Director_67,Spain,Documentary,PG,2005,2020-07-26,124 min,93.6
+C0391,TV Show,Title_391,Director_99,USA,Romance,R,2023,2024-12-09,2 Seasons,68.72
+C0392,Movie,Title_392,Director_81,India,Horror,R,2008,2022-12-27,153 min,128.18
+C0393,Movie,Title_393,Director_22,Japan,Action,PG-13,2015,2024-08-20,152 min,193.56
+C0394,Movie,Title_394,Director_1,USA,Drama,PG,2007,2023-04-23,145 min,12.45
+C0395,TV Show,Title_395,Director_120,USA,Adventure,TV-MA,2012,2016-09-06,3 Seasons,185.43
+C0396,TV Show,Title_396,Director_54,Japan,Documentary,G,2007,2018-08-11,4 Seasons,143.31
+C0397,Movie,Title_397,Director_23,Canada,Adventure,G,2016,2022-07-20,86 min,238.57
+C0398,Movie,Title_398,Director_100,Germany,Romance,G,2014,2024-09-17,116 min,138.72
+C0399,Movie,Title_399,Director_73,Germany,Thriller,R,2011,2017-04-01,117 min,92.7
+C0400,TV Show,Title_400,Director_94,Spain,Thriller,PG,2024,2023-09-14,4 Seasons,2.59
+C0401,TV Show,Title_401,Director_82,USA,Romance,G,2000,2017-08-12,6 Seasons,189.97
+C0402,TV Show,Title_402,Director_14,Canada,Adventure,PG,2023,2023-02-26,5 Seasons,105.53
+C0403,Movie,Title_403,Director_12,USA,Thriller,TV-14,2004,2022-12-24,115 min,103.85
+C0404,TV Show,Title_404,Director_75,India,Adventure,PG,2014,2023-05-22,2 Seasons,159.67
+C0405,TV Show,Title_405,Director_56,UK,Thriller,PG-13,2002,2021-08-21,1 Seasons,65.99
+C0406,TV Show,Title_406,Director_41,France,Documentary,PG,2025,2019-05-29,6 Seasons,19.6
+C0407,Movie,Title_407,Director_75,India,Action,G,2004,2023-09-30,178 min,41.93
+C0408,TV Show,Title_408,Director_69,Japan,Thriller,R,2010,2019-07-24,2 Seasons,77.77
+C0409,TV Show,Title_409,Director_104,Germany,Drama,PG,2003,2016-01-06,3 Seasons,209.15
+C0410,TV Show,Title_410,Director_46,South Korea,Adventure,G,2004,2016-01-09,4 Seasons,169.62
+C0411,TV Show,Title_411,Director_110,France,Adventure,TV-MA,2005,2015-05-08,7 Seasons,137.98
+C0412,Movie,Title_412,Director_16,USA,Drama,PG,2014,2016-02-22,97 min,33.55
+C0413,TV Show,Title_413,Director_75,Australia,Documentary,G,2011,2022-09-12,2 Seasons,6.43
+C0414,Movie,Title_414,Director_104,UK,Comedy,PG-13,2006,2022-03-30,136 min,31.51
+C0415,TV Show,Title_415,Director_106,South Korea,Horror,G,2001,2016-11-19,7 Seasons,96.3
+C0416,TV Show,Title_416,Director_117,UK,Documentary,PG-13,2005,2018-12-20,4 Seasons,112.06
+C0417,Movie,Title_417,Director_79,Canada,Documentary,R,2001,2021-11-20,159 min,103.59
+C0418,TV Show,Title_418,Director_50,UK,Sci-Fi,PG,2001,2015-12-26,5 Seasons,161.02
+C0419,Movie,Title_419,Director_102,USA,Sci-Fi,TV-MA,2020,2023-12-30,149 min,90.42
+C0420,TV Show,Title_420,Director_50,Germany,Action,G,2011,2021-05-05,6 Seasons,80.4
+C0421,Movie,Title_421,Director_36,USA,Horror,TV-14,2000,2024-02-03,179 min,90.0
+C0422,Movie,Title_422,Director_85,Canada,Documentary,TV-14,2005,2016-02-15,111 min,204.26
+C0423,Movie,Title_423,Director_109,South Korea,Romance,PG,2024,2017-06-17,153 min,44.85
+C0424,TV Show,Title_424,Director_117,Australia,Drama,TV-MA,2025,2023-04-12,6 Seasons,175.44
+C0425,Movie,Title_425,Director_70,Germany,Action,R,2018,2017-02-10,143 min,10.45
+C0426,Movie,Title_426,Director_3,Spain,Horror,G,2007,2021-09-30,108 min,83.6
+C0427,Movie,Title_427,Director_92,UK,Romance,G,2025,2016-06-18,123 min,6.46
+C0428,Movie,Title_428,Director_111,Japan,Comedy,PG-13,2024,2016-03-30,147 min,176.43
+C0429,TV Show,Title_429,Director_39,Japan,Action,PG,2018,2016-02-18,6 Seasons,183.36
+C0430,TV Show,Title_430,Director_84,Japan,Action,TV-MA,2025,2022-03-03,8 Seasons,242.22
+C0431,TV Show,Title_431,Director_49,Germany,Documentary,PG,2007,2022-06-19,3 Seasons,45.25
+C0432,Movie,Title_432,Director_109,Australia,Drama,PG,2022,2021-06-04,130 min,150.99
+C0433,Movie,Title_433,Director_120,France,Action,PG-13,2020,2021-05-05,93 min,186.59
+C0434,Movie,Title_434,Director_82,India,Romance,R,2011,2018-08-01,101 min,3.84
+C0435,Movie,Title_435,Director_45,Germany,Comedy,TV-MA,2007,2022-10-10,88 min,1.32
+C0436,TV Show,Title_436,Director_22,South Korea,Horror,R,2014,2023-03-20,7 Seasons,88.46
+C0437,TV Show,Title_437,Director_101,Australia,Thriller,PG,2003,2024-04-17,8 Seasons,113.37
+C0438,Movie,Title_438,Director_34,India,Comedy,PG-13,2009,2015-03-24,120 min,43.36
+C0439,TV Show,Title_439,Director_71,India,Romance,TV-14,2005,2023-03-18,2 Seasons,246.33
+C0440,TV Show,Title_440,Director_84,UK,Sci-Fi,PG,2022,2015-05-07,7 Seasons,14.34
+C0441,TV Show,Title_441,Director_90,Spain,Adventure,PG-13,2006,2017-02-17,7 Seasons,165.49
+C0442,TV Show,Title_442,Director_51,Australia,Adventure,R,2007,2016-01-28,1 Seasons,39.24
+C0443,TV Show,Title_443,Director_38,Australia,Horror,PG,2000,2019-10-18,2 Seasons,25.15
+C0444,Movie,Title_444,Director_11,France,Comedy,PG-13,2005,2022-02-27,117 min,196.43
+C0445,TV Show,Title_445,Director_12,Spain,Sci-Fi,PG,2015,2022-05-31,5 Seasons,93.38
+C0446,TV Show,Title_446,Director_6,Germany,Horror,R,2011,2017-02-03,8 Seasons,66.59
+C0447,TV Show,Title_447,Director_97,India,Comedy,TV-MA,2018,2015-09-10,3 Seasons,86.6
+C0448,TV Show,Title_448,Director_71,USA,Sci-Fi,TV-14,2024,2021-08-12,4 Seasons,105.24
+C0449,TV Show,Title_449,Director_61,Germany,Comedy,R,2018,2024-11-20,4 Seasons,225.79
+C0450,Movie,Title_450,Director_103,Australia,Action,G,2016,2021-05-28,146 min,237.36
+C0451,TV Show,Title_451,Director_104,Canada,Action,G,2005,2016-11-15,4 Seasons,106.42
+C0452,TV Show,Title_452,Director_107,Australia,Documentary,PG-13,2006,2024-03-23,3 Seasons,227.79
+C0453,Movie,Title_453,Director_51,Spain,Romance,PG-13,2002,2019-05-09,151 min,130.4
+C0454,Movie,Title_454,Director_76,Spain,Sci-Fi,G,2025,2022-11-08,159 min,104.2
+C0455,Movie,Title_455,Director_98,India,Comedy,TV-14,2018,2021-08-05,154 min,195.11
+C0456,TV Show,Title_456,Director_113,South Korea,Documentary,R,2017,2024-11-14,6 Seasons,164.04
+C0457,TV Show,Title_457,Director_52,UK,Sci-Fi,G,2001,2016-12-06,5 Seasons,99.55
+C0458,TV Show,Title_458,Director_96,France,Documentary,PG-13,2022,2017-08-31,1 Seasons,6.04
+C0459,TV Show,Title_459,Director_110,India,Thriller,PG,2009,2018-02-22,8 Seasons,75.82
+C0460,TV Show,Title_460,Director_35,South Korea,Comedy,PG,2024,2024-04-05,6 Seasons,110.99
+C0461,TV Show,Title_461,Director_106,USA,Adventure,PG,2023,2020-06-07,6 Seasons,17.34
+C0462,TV Show,Title_462,Director_23,Canada,Thriller,G,2004,2023-10-02,1 Seasons,63.12
+C0463,TV Show,Title_463,Director_36,Japan,Horror,TV-14,2001,2019-01-16,4 Seasons,99.84
+C0464,Movie,Title_464,Director_48,France,Horror,PG,2021,2015-05-06,110 min,240.17
+C0465,TV Show,Title_465,Director_45,UK,Documentary,TV-MA,2018,2021-03-08,6 Seasons,207.89
+C0466,Movie,Title_466,Director_7,UK,Thriller,PG,2009,2015-04-23,129 min,162.2
+C0467,Movie,Title_467,Director_66,USA,Drama,R,2008,2022-04-22,132 min,227.97
+C0468,Movie,Title_468,Director_29,Germany,Documentary,TV-MA,2019,2023-12-25,81 min,241.79
+C0469,TV Show,Title_469,Director_59,Germany,Thriller,R,2013,2019-03-23,6 Seasons,76.23
+C0470,TV Show,Title_470,Director_66,Japan,Adventure,TV-MA,2018,2016-02-24,1 Seasons,148.85
+C0471,TV Show,Title_471,Director_62,India,Romance,PG-13,2009,2022-09-04,2 Seasons,160.51
+C0472,TV Show,Title_472,Director_25,UK,Adventure,PG,2008,2022-05-11,5 Seasons,225.02
+C0473,TV Show,Title_473,Director_93,USA,Horror,PG-13,2021,2018-08-02,3 Seasons,65.6
+C0474,TV Show,Title_474,Director_75,Australia,Thriller,PG-13,2012,2019-05-10,1 Seasons,181.91
+C0475,Movie,Title_475,Director_101,France,Romance,TV-14,2021,2020-12-29,161 min,75.75
+C0476,Movie,Title_476,Director_24,Germany,Comedy,R,2021,2024-10-30,151 min,32.86
+C0477,TV Show,Title_477,Director_88,Japan,Comedy,PG,2023,2024-01-24,3 Seasons,89.47
+C0478,TV Show,Title_478,Director_48,Germany,Documentary,R,2013,2023-11-03,6 Seasons,212.95
+C0479,TV Show,Title_479,Director_61,Canada,Adventure,G,2001,2024-09-18,2 Seasons,217.01
+C0480,TV Show,Title_480,Director_7,UK,Action,PG,2016,2018-05-07,7 Seasons,86.32
+C0481,TV Show,Title_481,Director_100,India,Horror,PG-13,2004,2018-07-19,3 Seasons,158.13
+C0482,Movie,Title_482,Director_1,France,Documentary,PG,2010,2022-02-11,87 min,190.54
+C0483,Movie,Title_483,Director_63,India,Action,TV-14,2018,2023-07-29,100 min,108.99
+C0484,TV Show,Title_484,Director_50,USA,Drama,TV-14,2012,2019-10-24,8 Seasons,50.65
+C0485,TV Show,Title_485,Director_3,USA,Thriller,PG,2000,2018-08-12,4 Seasons,173.69
+C0486,TV Show,Title_486,Director_50,Spain,Documentary,PG,2009,2016-06-12,2 Seasons,17.26
+C0487,Movie,Title_487,Director_94,Spain,Adventure,PG-13,2009,2018-04-06,138 min,108.98
+C0488,Movie,Title_488,Director_97,Canada,Action,R,2010,2020-06-30,125 min,5.76
+C0489,Movie,Title_489,Director_94,USA,Adventure,PG,2023,2016-06-21,107 min,31.67
+C0490,Movie,Title_490,Director_33,Spain,Drama,TV-14,2012,2024-10-30,161 min,248.68
+C0491,Movie,Title_491,Director_7,India,Sci-Fi,R,2020,2024-05-17,82 min,95.68
+C0492,TV Show,Title_492,Director_27,USA,Documentary,R,2015,2022-11-14,3 Seasons,165.75
+C0493,TV Show,Title_493,Director_54,India,Adventure,TV-MA,2019,2021-10-16,3 Seasons,154.81
+C0494,TV Show,Title_494,Director_64,Canada,Thriller,PG-13,2003,2023-10-20,2 Seasons,208.04
+C0495,Movie,Title_495,Director_38,UK,Drama,TV-14,2011,2022-11-21,132 min,124.59
+C0496,Movie,Title_496,Director_31,USA,Drama,TV-MA,2022,2020-05-22,122 min,23.16
+C0497,Movie,Title_497,Director_20,India,Adventure,G,2018,2022-07-03,143 min,181.17
+C0498,Movie,Title_498,Director_59,Germany,Documentary,R,2008,2022-03-24,109 min,13.47
+C0499,Movie,Title_499,Director_47,Japan,Sci-Fi,TV-MA,2001,2024-07-22,117 min,29.86
+C0500,Movie,Title_500,Director_85,UK,Romance,PG-13,2000,2024-07-21,97 min,223.74
